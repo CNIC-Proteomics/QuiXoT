@@ -1,0 +1,431 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{66737017-17E7-4ACC-9638-2918BA7C838D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>QuiXoT</RootNamespace>
+    <AssemblyName>QuiXoT</AssemblyName>
+    <ManifestCertificateThumbprint>3FD553A24803044309512FCE0B7DE0B9BB9E74ED</ManifestCertificateThumbprint>
+    <ManifestKeyFile>scanViewer_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>true</GenerateManifests>
+    <SignManifests>false</SignManifests>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetZone>LocalIntranet</TargetZone>
+    <ApplicationIcon>QuiXoT.ico</ApplicationIcon>
+    <SignAssembly>false</SignAssembly>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <PublishUrl>\\150.244.205.111\Datos%24\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Unc</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
+    <WebPage>publish.htm</WebPage>
+    <ApplicationRevision>3</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>
+    </DocumentationFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>
+    </DocumentationFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MathNet.Iridium, Version=2008.2.10.364, Culture=neutral, PublicKeyToken=c061a3ec32cc0c6f, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AboutBox.Designer.cs">
+      <DependentUpon>AboutBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ColumnFilterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DAsingleCSV.cs" />
+    <Compile Include="DataFilterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataGridComboBoxColumn.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="images\icons\Resource1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resource1.resx</DependentUpon>
+    </Compile>
+    <Compile Include="OPcalcVarEnd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OPcalcVarEnd.Designer.cs">
+      <DependentUpon>OPcalcVarEnd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OPcalcVarPreview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OPcalcVarPreview.Designer.cs">
+      <DependentUpon>OPcalcVarPreview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OPchangeColV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OPchangeColV.Designer.cs">
+      <DependentUpon>OPchangeColV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OPcolor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OPcolor.Designer.cs">
+      <DependentUpon>OPcolor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OPgrapher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OPgrapher.Designer.cs">
+      <DependentUpon>OPgrapher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OPgrapherPreview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OPgrapherPreview.Designer.cs">
+      <DependentUpon>OPgrapherPreview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OPImage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OPImage.Designer.cs">
+      <DependentUpon>OPImage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OPredPreference.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OPredPreference.Designer.cs">
+      <DependentUpon>OPredPreference.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OPselectBoundsGraph.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OPselectBoundsGraph.Designer.cs">
+      <DependentUpon>OPselectBoundsGraph.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OPselectMethod.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OPselectMethod.Designer.cs">
+      <DependentUpon>OPselectMethod.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OPstatsPreview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OPstatsPreview.Designer.cs">
+      <DependentUpon>OPstatsPreview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LN.cs" />
+    <Compile Include="NTPClient.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="OPpeptCtChange.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OPpeptCtChange.Designer.cs">
+      <DependentUpon>OPpeptCtChange.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OPquan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OPquan.Designer.cs">
+      <DependentUpon>OPquan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OPvarConf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OPvarConf.Designer.cs">
+      <DependentUpon>OPvarConf.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AboutBox.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AboutBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ColumnFilterForm.resx">
+      <DependentUpon>ColumnFilterForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataFilterForm.resx">
+      <DependentUpon>DataFilterForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="images\icons\Resource1.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resource1.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OPcalcVarEnd.resx">
+      <DependentUpon>OPcalcVarEnd.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OPcalcVarPreview.resx">
+      <DependentUpon>OPcalcVarPreview.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OPchangeColV.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>OPchangeColV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OPcolor.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>OPcolor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OPgrapher.resx">
+      <DependentUpon>OPgrapher.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OPgrapherPreview.resx">
+      <DependentUpon>OPgrapherPreview.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OPImage.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>OPImage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OPredPreference.resx">
+      <DependentUpon>OPredPreference.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OPselectBoundsGraph.resx">
+      <DependentUpon>OPselectBoundsGraph.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OPselectMethod.resx">
+      <DependentUpon>OPselectMethod.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OPstatsPreview.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>OPstatsPreview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OPpeptCtChange.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>OPpeptCtChange.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OPquan.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>OPquan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OPvarConf.resx">
+      <DependentUpon>OPvarConf.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OPviewer.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>OPviewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sleeve.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>sleeve.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="OPviewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OPviewer.Designer.cs">
+      <DependentUpon>OPviewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Settings.cs" />
+    <Compile Include="sleeve.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sleeve.Designer.cs">
+      <DependentUpon>sleeve.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\QuiXoT.DA_Raw\QuiXoT.DA_Raw.csproj">
+      <Project>{A55F0896-DF6F-4FE2-837B-F95A8A980FCB}</Project>
+      <Name>QuiXoT.DA_Raw</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\QuiXoT.DA_stackRAW\QuiXoT.DA_stackRAW.csproj">
+      <Project>{137E6484-3CF9-42C5-8AA0-75E624AF2896}</Project>
+      <Name>QuiXoT.DA_stackRAW</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\QuiXoT.lookUp\QuiXoT.lookUp.csproj">
+      <Project>{F65BAF0D-4BFB-4538-8F90-09C78EC76740}</Project>
+      <Name>QuiXoT.lookUp</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\QuiXoT.math\QuiXoT.math.csproj">
+      <Project>{2C8219A3-7B7F-42A8-BAB0-C408509F3A42}</Project>
+      <Name>QuiXoT.math</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\QuiXoT.statistics\QuiXoT.statistics.csproj">
+      <Project>{0240C08D-7858-43C9-815A-AFD4A3F7C28A}</Project>
+      <Name>QuiXoT.statistics</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BaseApplicationManifest Include="Properties\app.manifest" />
+    <None Include="Resources\aminoacids.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Sql.Server.Express.1.0">
+      <Visible>False</Visible>
+      <ProductName>SQL Server 2005 Express</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\quijote.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\quijote500x392.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\quijote105x82.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\icons\QuiXoT.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\icons\QuiXoT_head2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\quijote105x82mp.png" />
+    <None Include="images\quijote500x392mp.png" />
+    <Content Include="images\cbm.jpg" />
+    <Content Include="images\cnic.png" />
+    <Content Include="QuiXoT.ico" />
+    <None Include="Resources\cnic.png" />
+    <None Include="Resources\cbm.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxMicrosoft.Vbe.Interop.Forms">
+      <Guid>{0D452EE1-E08F-101A-852E-02608C4D0BB4}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Properties\DataSources\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

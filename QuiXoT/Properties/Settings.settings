@@ -1,0 +1,69 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="QuiXoT.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="isotopesFile" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">conf\\isotopes.xml</Value>
+    </Setting>
+    <Setting Name="aminoacidsFile" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">conf\\aminoacids.xml</Value>
+    </Setting>
+    <Setting Name="fitparametersFile" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">conf\\fitParameters.xml</Value>
+    </Setting>
+    <Setting Name="identificationsSchema" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">conf\\identifications_schema.xsd</Value>
+    </Setting>
+    <Setting Name="imagesFolder" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">conf\\images\\</Value>
+    </Setting>
+    <Setting Name="quanMethodsFile" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">conf\\QuantitationMethods.xml</Value>
+    </Setting>
+    <Setting Name="quanMethodsSchema" Type="System.String" Scope="User">
+      <Value Profile="(Default)">conf\\QuantitationMethods_schema.xsd</Value>
+    </Setting>
+    <Setting Name="license" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="version" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">1.4.03</Value>
+    </Setting>
+    <Setting Name="fits2smin" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="fits2smax" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0.8</Value>
+    </Setting>
+    <Setting Name="fits2sdelta" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0.005</Value>
+    </Setting>
+    <Setting Name="fits2scicles" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="fits2pmin" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="fits2pmax" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0.8</Value>
+    </Setting>
+    <Setting Name="fits2pdelta" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0.005</Value>
+    </Setting>
+    <Setting Name="fits2pcicles" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="fits2qmin" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="fits2qmax" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0.8</Value>
+    </Setting>
+    <Setting Name="fits2qdelta" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0.005</Value>
+    </Setting>
+    <Setting Name="fits2qcicles" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

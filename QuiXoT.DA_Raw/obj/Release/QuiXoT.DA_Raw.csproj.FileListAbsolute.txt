@@ -1,0 +1,317 @@
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT.DA_Raw\bin\Release\QuiXoT.DA_Raw.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT.DA_Raw\bin\Release\QuiXoT.DA_Raw.pdb
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT.DA_Raw\bin\Release\Interop.XCALIBURFILESLib.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT.DA_Raw\bin\Release\QuiXoT.lookUp.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT.DA_Raw\bin\Release\QuiXoT.math.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT.DA_Raw\bin\Release\QuiXoT.lookUp.pdb
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT.DA_Raw\bin\Release\QuiXoT.math.pdb
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT.DA_Raw\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT.DA_Raw\obj\Release\QuiXoT.DA_Raw.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT.DA_Raw\obj\Release\QuiXoT.DA_Raw.pdb
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.DA_Raw\bin\Release\QuiXoT.DA_Raw.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.DA_Raw\bin\Release\QuiXoT.DA_Raw.pdb
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.DA_Raw\bin\Release\Interop.XCALIBURFILESLib.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.DA_Raw\bin\Release\QuiXoT.lookUp.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.DA_Raw\bin\Release\QuiXoT.math.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.DA_Raw\bin\Release\QuiXoT.lookUp.pdb
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.DA_Raw\bin\Release\QuiXoT.math.pdb
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.DA_Raw\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.DA_Raw\obj\Release\QuiXoT.DA_Raw.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.DA_Raw\obj\Release\QuiXoT.DA_Raw.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.DA_Raw\bin\Release\QuiXoT.DA_Raw.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.DA_Raw\bin\Release\QuiXoT.DA_Raw.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.DA_Raw\bin\Release\Interop.XCALIBURFILESLib.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.DA_Raw\bin\Release\QuiXoT.lookUp.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.DA_Raw\bin\Release\QuiXoT.math.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.DA_Raw\bin\Release\QuiXoT.lookUp.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.DA_Raw\bin\Release\QuiXoT.math.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.DA_Raw\obj\Release\ResolveAssemblyReference.cache
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.DA_Raw\obj\Release\QuiXoT.DA_Raw.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.DA_Raw\obj\Release\QuiXoT.DA_Raw.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT.DA_Raw\bin\Release\QuiXoT.DA_Raw.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT.DA_Raw\bin\Release\QuiXoT.DA_Raw.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT.DA_Raw\bin\Release\Interop.XCALIBURFILESLib.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT.DA_Raw\bin\Release\QuiXoT.lookUp.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT.DA_Raw\bin\Release\QuiXoT.math.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT.DA_Raw\bin\Release\QuiXoT.lookUp.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT.DA_Raw\bin\Release\QuiXoT.math.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT.DA_Raw\obj\Release\ResolveAssemblyReference.cache
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT.DA_Raw\obj\Release\QuiXoT.DA_Raw.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT.DA_Raw\obj\Release\QuiXoT.DA_Raw.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT.DA_Raw\bin\Release\QuiXoT.DA_Raw.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT.DA_Raw\bin\Release\QuiXoT.DA_Raw.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT.DA_Raw\bin\Release\Interop.XCALIBURFILESLib.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT.DA_Raw\bin\Release\QuiXoT.lookUp.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT.DA_Raw\bin\Release\QuiXoT.math.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT.DA_Raw\bin\Release\QuiXoT.lookUp.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT.DA_Raw\bin\Release\QuiXoT.math.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT.DA_Raw\obj\Release\ResolveAssemblyReference.cache
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT.DA_Raw\obj\Release\QuiXoT.DA_Raw.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT.DA_Raw\obj\Release\QuiXoT.DA_Raw.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT.DA_Raw\bin\Release\QuiXoT.DA_Raw.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT.DA_Raw\bin\Release\QuiXoT.DA_Raw.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT.DA_Raw\bin\Release\Interop.XCALIBURFILESLib.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT.DA_Raw\bin\Release\QuiXoT.lookUp.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT.DA_Raw\bin\Release\QuiXoT.math.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT.DA_Raw\bin\Release\QuiXoT.lookUp.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT.DA_Raw\bin\Release\QuiXoT.math.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT.DA_Raw\obj\Release\ResolveAssemblyReference.cache
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT.DA_Raw\obj\Release\QuiXoT.DA_Raw.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT.DA_Raw\obj\Release\QuiXoT.DA_Raw.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT.DA_Raw\bin\Release\QuiXoT.DA_Raw.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT.DA_Raw\bin\Release\QuiXoT.DA_Raw.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT.DA_Raw\bin\Release\Interop.XCALIBURFILESLib.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT.DA_Raw\bin\Release\QuiXoT.lookUp.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT.DA_Raw\bin\Release\QuiXoT.math.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT.DA_Raw\bin\Release\QuiXoT.lookUp.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT.DA_Raw\bin\Release\QuiXoT.math.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT.DA_Raw\obj\Release\ResolveAssemblyReference.cache
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT.DA_Raw\obj\Release\QuiXoT.DA_Raw.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT.DA_Raw\obj\Release\QuiXoT.DA_Raw.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT.DA_Raw\bin\Release\QuiXoT.DA_Raw.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT.DA_Raw\bin\Release\QuiXoT.DA_Raw.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT.DA_Raw\bin\Release\Interop.XCALIBURFILESLib.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT.DA_Raw\bin\Release\QuiXoT.lookUp.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT.DA_Raw\bin\Release\QuiXoT.math.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT.DA_Raw\bin\Release\QuiXoT.lookUp.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT.DA_Raw\bin\Release\QuiXoT.math.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT.DA_Raw\obj\Release\ResolveAssemblyReference.cache
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT.DA_Raw\obj\Release\QuiXoT.DA_Raw.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT.DA_Raw\obj\Release\QuiXoT.DA_Raw.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT.DA_Raw\bin\Release\QuiXoT.DA_Raw.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT.DA_Raw\bin\Release\QuiXoT.DA_Raw.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT.DA_Raw\bin\Release\Interop.XCALIBURFILESLib.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT.DA_Raw\bin\Release\QuiXoT.lookUp.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT.DA_Raw\bin\Release\QuiXoT.math.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT.DA_Raw\bin\Release\QuiXoT.lookUp.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT.DA_Raw\bin\Release\QuiXoT.math.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT.DA_Raw\obj\Release\ResolveAssemblyReference.cache
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT.DA_Raw\obj\Release\QuiXoT.DA_Raw.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT.DA_Raw\obj\Release\QuiXoT.DA_Raw.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT.DA_Raw\bin\Release\QuiXoT.DA_Raw.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT.DA_Raw\bin\Release\QuiXoT.DA_Raw.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT.DA_Raw\bin\Release\QuiXoT.lookUp.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT.DA_Raw\bin\Release\QuiXoT.math.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT.DA_Raw\bin\Release\QuiXoT.lookUp.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT.DA_Raw\bin\Release\QuiXoT.math.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT.DA_Raw\bin\Release\Interop.XCALIBURFILESLib.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT.DA_Raw\bin\Release\Interop.XRAWFILE2Lib.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT.DA_Raw\obj\Release\ResolveAssemblyReference.cache
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT.DA_Raw\obj\Release\Interop.XCALIBURFILESLib.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT.DA_Raw\obj\Release\Interop.XRAWFILE2Lib.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT.DA_Raw\obj\Release\QuiXoT.DA_Raw.csproj.ResolveComReference.cache
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT.DA_Raw\obj\Release\QuiXoT.DA_Raw.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT.DA_Raw\obj\Release\QuiXoT.DA_Raw.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT.DA_Raw\obj\Release\Interop.XCALIBURFILESLib.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT.DA_Raw\obj\Release\Interop.XRAWFILE2Lib.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT.DA_Raw\obj\Release\QuiXoT.DA_Raw.csproj.ResolveComReference.cache
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT.DA_Raw\bin\Release\Interop.XRAWFILE2Lib.dll
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.DA_Raw.dll
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.DA_Raw.pdb
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.lookUp.dll
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.math.dll
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.lookUp.pdb
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.math.pdb
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\Interop.XCALIBURFILESLib.dll
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\Interop.XRAWFILE2Lib.dll
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\obj\Release\ResolveAssemblyReference.cache
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\obj\Release\Interop.XCALIBURFILESLib.dll
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\obj\Release\Interop.XRAWFILE2Lib.dll
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\obj\Release\QuiXoT.DA_Raw.csproj.ResolveComReference.cache
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\obj\Release\QuiXoT.DA_Raw.dll
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\obj\Release\QuiXoT.DA_Raw.pdb
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.DA_Raw.dll
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.DA_Raw.pdb
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.lookUp.dll
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.math.dll
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\MathNet.Iridium.dll
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.lookUp.pdb
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\MathNet.Iridium.pdb
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\MathNet.Iridium.xml
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.math.pdb
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\de\MathNet.Iridium.resources.dll
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\es\MathNet.Iridium.resources.dll
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\fr\MathNet.Iridium.resources.dll
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\obj\Release\ResolveAssemblyReference.cache
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\obj\Release\QuiXoT.DA_Raw.dll
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\obj\Release\QuiXoT.DA_Raw.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.DA_Raw.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.DA_Raw.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.lookUp.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.math.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\MathNet.Iridium.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.lookUp.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\MathNet.Iridium.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\MathNet.Iridium.xml
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.math.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\de\MathNet.Iridium.resources.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\es\MathNet.Iridium.resources.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\fr\MathNet.Iridium.resources.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.DA_Raw\obj\Release\ResolveAssemblyReference.cache
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.DA_Raw\obj\Release\QuiXoT.DA_Raw.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.DA_Raw\obj\Release\QuiXoT.DA_Raw.pdb
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.DA_Raw.dll
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.DA_Raw.pdb
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.lookUp.dll
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.math.dll
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\MathNet.Iridium.dll
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.lookUp.pdb
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\MathNet.Iridium.pdb
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\MathNet.Iridium.xml
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.math.pdb
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\de\MathNet.Iridium.resources.dll
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\es\MathNet.Iridium.resources.dll
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\fr\MathNet.Iridium.resources.dll
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\obj\Release\ResolveAssemblyReference.cache
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\obj\Release\QuiXoT.DA_Raw.dll
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\obj\Release\QuiXoT.DA_Raw.pdb
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT.DA_Raw\bin\Release\QuiXoT.DA_Raw.dll
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT.DA_Raw\bin\Release\QuiXoT.DA_Raw.pdb
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT.DA_Raw\bin\Release\QuiXoT.lookUp.dll
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT.DA_Raw\bin\Release\QuiXoT.math.dll
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT.DA_Raw\bin\Release\MathNet.Iridium.dll
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT.DA_Raw\bin\Release\QuiXoT.lookUp.pdb
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT.DA_Raw\bin\Release\MathNet.Iridium.pdb
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT.DA_Raw\bin\Release\MathNet.Iridium.xml
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT.DA_Raw\bin\Release\QuiXoT.math.pdb
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT.DA_Raw\bin\Release\de\MathNet.Iridium.resources.dll
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT.DA_Raw\bin\Release\es\MathNet.Iridium.resources.dll
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT.DA_Raw\bin\Release\fr\MathNet.Iridium.resources.dll
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT.DA_Raw\obj\Release\ResolveAssemblyReference.cache
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT.DA_Raw\obj\Release\QuiXoT.DA_Raw.dll
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT.DA_Raw\obj\Release\QuiXoT.DA_Raw.pdb
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.DA_Raw.dll
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.DA_Raw.pdb
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.lookUp.dll
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.math.dll
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\MathNet.Iridium.dll
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.lookUp.pdb
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\MathNet.Iridium.pdb
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\MathNet.Iridium.xml
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.math.pdb
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\de\MathNet.Iridium.resources.dll
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\es\MathNet.Iridium.resources.dll
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\fr\MathNet.Iridium.resources.dll
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\obj\Release\ResolveAssemblyReference.cache
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\obj\Release\QuiXoT.DA_Raw.dll
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\obj\Release\QuiXoT.DA_Raw.pdb
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.DA_Raw.dll
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.DA_Raw.pdb
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.lookUp.dll
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.math.dll
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\MathNet.Iridium.dll
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.lookUp.pdb
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\MathNet.Iridium.pdb
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\MathNet.Iridium.xml
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.math.pdb
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\de\MathNet.Iridium.resources.dll
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\es\MathNet.Iridium.resources.dll
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\fr\MathNet.Iridium.resources.dll
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\obj\Release\ResolveAssemblyReference.cache
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\obj\Release\QuiXoT.DA_Raw.dll
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\obj\Release\QuiXoT.DA_Raw.pdb
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.DA_Raw.dll
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.DA_Raw.pdb
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.lookUp.dll
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.math.dll
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\MathNet.Iridium.dll
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.lookUp.pdb
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\MathNet.Iridium.pdb
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\MathNet.Iridium.xml
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.math.pdb
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\de\MathNet.Iridium.resources.dll
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\es\MathNet.Iridium.resources.dll
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\fr\MathNet.Iridium.resources.dll
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\obj\Release\ResolveAssemblyReference.cache
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\obj\Release\QuiXoT.DA_Raw.dll
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\obj\Release\QuiXoT.DA_Raw.pdb
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.DA_Raw.dll
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.DA_Raw.pdb
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.lookUp.dll
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.math.dll
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\MathNet.Iridium.dll
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.lookUp.pdb
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\MathNet.Iridium.pdb
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\MathNet.Iridium.xml
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.math.pdb
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\de\MathNet.Iridium.resources.dll
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\es\MathNet.Iridium.resources.dll
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\fr\MathNet.Iridium.resources.dll
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\obj\Release\ResolveAssemblyReference.cache
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\obj\Release\QuiXoT.DA_Raw.dll
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.DA_Raw\obj\Release\QuiXoT.DA_Raw.pdb
+D:\2010 Maia\programoj\labejo\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.DA_Raw.dll
+D:\2010 Maia\programoj\labejo\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.DA_Raw.pdb
+D:\2010 Maia\programoj\labejo\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.lookUp.dll
+D:\2010 Maia\programoj\labejo\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.math.dll
+D:\2010 Maia\programoj\labejo\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\MathNet.Iridium.dll
+D:\2010 Maia\programoj\labejo\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.lookUp.pdb
+D:\2010 Maia\programoj\labejo\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\MathNet.Iridium.pdb
+D:\2010 Maia\programoj\labejo\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\MathNet.Iridium.xml
+D:\2010 Maia\programoj\labejo\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.math.pdb
+D:\2010 Maia\programoj\labejo\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\de\MathNet.Iridium.resources.dll
+D:\2010 Maia\programoj\labejo\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\es\MathNet.Iridium.resources.dll
+D:\2010 Maia\programoj\labejo\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\fr\MathNet.Iridium.resources.dll
+D:\2010 Maia\programoj\labejo\QuiXoT\trunk\QuiXoT.DA_Raw\obj\Release\ResolveAssemblyReference.cache
+D:\2010 Maia\programoj\labejo\QuiXoT\trunk\QuiXoT.DA_Raw\obj\Release\QuiXoT.DA_Raw.dll
+D:\2010 Maia\programoj\labejo\QuiXoT\trunk\QuiXoT.DA_Raw\obj\Release\QuiXoT.DA_Raw.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT.DA_Raw\bin\Release\QuiXoT.DA_Raw.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT.DA_Raw\bin\Release\QuiXoT.DA_Raw.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT.DA_Raw\bin\Release\QuiXoT.lookUp.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT.DA_Raw\bin\Release\QuiXoT.math.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT.DA_Raw\bin\Release\MathNet.Iridium.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT.DA_Raw\bin\Release\QuiXoT.lookUp.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT.DA_Raw\bin\Release\MathNet.Iridium.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT.DA_Raw\bin\Release\MathNet.Iridium.xml
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT.DA_Raw\bin\Release\QuiXoT.math.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT.DA_Raw\bin\Release\de\MathNet.Iridium.resources.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT.DA_Raw\bin\Release\es\MathNet.Iridium.resources.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT.DA_Raw\bin\Release\fr\MathNet.Iridium.resources.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT.DA_Raw\obj\Release\ResolveAssemblyReference.cache
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT.DA_Raw\obj\Release\QuiXoT.DA_Raw.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT.DA_Raw\obj\Release\QuiXoT.DA_Raw.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.DA_Raw.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.DA_Raw.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.lookUp.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.math.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT.DA_Raw\bin\Release\MathNet.Iridium.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.lookUp.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT.DA_Raw\bin\Release\MathNet.Iridium.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT.DA_Raw\bin\Release\MathNet.Iridium.xml
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.math.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT.DA_Raw\bin\Release\de\MathNet.Iridium.resources.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT.DA_Raw\bin\Release\es\MathNet.Iridium.resources.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT.DA_Raw\bin\Release\fr\MathNet.Iridium.resources.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT.DA_Raw\obj\Release\ResolveAssemblyReference.cache
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT.DA_Raw\obj\Release\QuiXoT.DA_Raw.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT.DA_Raw\obj\Release\QuiXoT.DA_Raw.pdb
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.DA_Raw.dll
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.DA_Raw.pdb
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.lookUp.dll
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.math.dll
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\MathNet.Iridium.dll
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.lookUp.pdb
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\MathNet.Iridium.pdb
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\MathNet.Iridium.xml
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.math.pdb
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\de\MathNet.Iridium.resources.dll
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\es\MathNet.Iridium.resources.dll
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\fr\MathNet.Iridium.resources.dll
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.DA_Raw\obj\Release\ResolveAssemblyReference.cache
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.DA_Raw\obj\Release\QuiXoT.DA_Raw.dll
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.DA_Raw\obj\Release\QuiXoT.DA_Raw.pdb
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.DA_Raw.dll
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.DA_Raw.pdb
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.lookUp.dll
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.math.dll
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\MathNet.Iridium.dll
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.lookUp.pdb
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\MathNet.Iridium.pdb
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\MathNet.Iridium.xml
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\QuiXoT.math.pdb
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\de\MathNet.Iridium.resources.dll
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\es\MathNet.Iridium.resources.dll
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT.DA_Raw\bin\Release\fr\MathNet.Iridium.resources.dll
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT.DA_Raw\obj\Release\ResolveAssemblyReference.cache
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT.DA_Raw\obj\Release\QuiXoT.DA_Raw.dll
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT.DA_Raw\obj\Release\QuiXoT.DA_Raw.pdb

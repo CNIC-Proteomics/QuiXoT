@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuiXoT", "QuiXoT\QuiXoT.csproj", "{66737017-17E7-4ACC-9638-2918BA7C838D}"
+	ProjectSection(ProjectDependencies) = postProject
+		{0240C08D-7858-43C9-815A-AFD4A3F7C28A} = {0240C08D-7858-43C9-815A-AFD4A3F7C28A}
+		{2C8219A3-7B7F-42A8-BAB0-C408509F3A42} = {2C8219A3-7B7F-42A8-BAB0-C408509F3A42}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuiXoT.math", "QuiXoT.math\QuiXoT.math.csproj", "{2C8219A3-7B7F-42A8-BAB0-C408509F3A42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuiXoT.lookUp", "QuiXoT.lookUp\QuiXoT.lookUp.csproj", "{F65BAF0D-4BFB-4538-8F90-09C78EC76740}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuiXoT.statistics", "QuiXoT.statistics\QuiXoT.statistics.csproj", "{0240C08D-7858-43C9-815A-AFD4A3F7C28A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuiXoT.DA_stackRAW", "QuiXoT.DA_stackRAW\QuiXoT.DA_stackRAW.csproj", "{137E6484-3CF9-42C5-8AA0-75E624AF2896}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuiXoT.DA_Raw", "QuiXoT.DA_Raw\QuiXoT.DA_Raw.csproj", "{A55F0896-DF6F-4FE2-837B-F95A8A980FCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66737017-17E7-4ACC-9638-2918BA7C838D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66737017-17E7-4ACC-9638-2918BA7C838D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66737017-17E7-4ACC-9638-2918BA7C838D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66737017-17E7-4ACC-9638-2918BA7C838D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C8219A3-7B7F-42A8-BAB0-C408509F3A42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C8219A3-7B7F-42A8-BAB0-C408509F3A42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C8219A3-7B7F-42A8-BAB0-C408509F3A42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C8219A3-7B7F-42A8-BAB0-C408509F3A42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F65BAF0D-4BFB-4538-8F90-09C78EC76740}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F65BAF0D-4BFB-4538-8F90-09C78EC76740}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F65BAF0D-4BFB-4538-8F90-09C78EC76740}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F65BAF0D-4BFB-4538-8F90-09C78EC76740}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0240C08D-7858-43C9-815A-AFD4A3F7C28A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0240C08D-7858-43C9-815A-AFD4A3F7C28A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0240C08D-7858-43C9-815A-AFD4A3F7C28A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0240C08D-7858-43C9-815A-AFD4A3F7C28A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{137E6484-3CF9-42C5-8AA0-75E624AF2896}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{137E6484-3CF9-42C5-8AA0-75E624AF2896}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{137E6484-3CF9-42C5-8AA0-75E624AF2896}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{137E6484-3CF9-42C5-8AA0-75E624AF2896}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A55F0896-DF6F-4FE2-837B-F95A8A980FCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A55F0896-DF6F-4FE2-837B-F95A8A980FCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A55F0896-DF6F-4FE2-837B-F95A8A980FCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A55F0896-DF6F-4FE2-837B-F95A8A980FCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

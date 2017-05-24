@@ -1,0 +1,340 @@
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT.statistics\bin\Debug\QuiXoT.statistics.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT.statistics\bin\Debug\QuiXoT.statistics.pdb
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT.statistics\bin\Debug\MathNet.Iridium.pdb
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT.statistics\bin\Debug\MathNet.Iridium.xml
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT.statistics\bin\Debug\de\MathNet.Iridium.resources.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT.statistics\bin\Debug\es\MathNet.Iridium.resources.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT.statistics\bin\Debug\fr\MathNet.Iridium.resources.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT.statistics\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.OPgraph.resources
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.csproj.GenerateResource.Cache
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.pdb
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT.statistics\bin\Debug\QuiXoT.statistics.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT.statistics\bin\Debug\QuiXoT.statistics.pdb
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT.statistics\bin\Debug\MathNet.Iridium.pdb
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT.statistics\bin\Debug\MathNet.Iridium.xml
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT.statistics\bin\Debug\de\MathNet.Iridium.resources.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT.statistics\bin\Debug\es\MathNet.Iridium.resources.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT.statistics\bin\Debug\fr\MathNet.Iridium.resources.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT.statistics\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.OPgraph.resources
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.csproj.GenerateResource.Cache
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.pdb
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.statistics\bin\Debug\QuiXoT.statistics.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.statistics\bin\Debug\QuiXoT.statistics.pdb
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.statistics\bin\Debug\MathNet.Iridium.pdb
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.statistics\bin\Debug\MathNet.Iridium.xml
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.statistics\bin\Debug\de\MathNet.Iridium.resources.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.statistics\bin\Debug\es\MathNet.Iridium.resources.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.statistics\bin\Debug\fr\MathNet.Iridium.resources.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.statistics\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.OPgraph.resources
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.csproj.GenerateResource.Cache
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.statistics\bin\Debug\QuiXoT.statistics.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.statistics\bin\Debug\QuiXoT.statistics.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.statistics\bin\Debug\MathNet.Iridium.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.statistics\bin\Debug\MathNet.Iridium.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.statistics\bin\Debug\MathNet.Iridium.xml
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.statistics\bin\Debug\de\MathNet.Iridium.resources.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.statistics\bin\Debug\es\MathNet.Iridium.resources.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.statistics\bin\Debug\fr\MathNet.Iridium.resources.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.statistics\obj\Debug\ResolveAssemblyReference.cache
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.OPgraph.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.csproj.GenerateResource.Cache
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.statistics\bin\Debug\QuiXoT.math.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT.statistics\bin\Debug\QuiXoT.math.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT.statistics\bin\Debug\QuiXoT.statistics.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT.statistics\bin\Debug\QuiXoT.statistics.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT.statistics\bin\Debug\MathNet.Iridium.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT.statistics\bin\Debug\QuiXoT.math.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT.statistics\bin\Debug\MathNet.Iridium.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT.statistics\bin\Debug\MathNet.Iridium.xml
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT.statistics\bin\Debug\QuiXoT.math.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT.statistics\bin\Debug\de\MathNet.Iridium.resources.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT.statistics\bin\Debug\es\MathNet.Iridium.resources.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT.statistics\bin\Debug\fr\MathNet.Iridium.resources.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT.statistics\obj\Debug\ResolveAssemblyReference.cache
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.OPgraph.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.csproj.GenerateResource.Cache
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT.statistics\bin\Debug\QuiXoT.statistics.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT.statistics\bin\Debug\QuiXoT.statistics.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT.statistics\bin\Debug\MathNet.Iridium.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT.statistics\bin\Debug\QuiXoT.math.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT.statistics\bin\Debug\MathNet.Iridium.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT.statistics\bin\Debug\MathNet.Iridium.xml
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT.statistics\bin\Debug\QuiXoT.math.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT.statistics\bin\Debug\de\MathNet.Iridium.resources.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT.statistics\bin\Debug\es\MathNet.Iridium.resources.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT.statistics\bin\Debug\fr\MathNet.Iridium.resources.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT.statistics\obj\Debug\ResolveAssemblyReference.cache
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.OPgraph.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.csproj.GenerateResource.Cache
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT.statistics\bin\Debug\QuiXoT.statistics.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT.statistics\bin\Debug\QuiXoT.statistics.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT.statistics\bin\Debug\MathNet.Iridium.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT.statistics\bin\Debug\QuiXoT.math.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT.statistics\bin\Debug\MathNet.Iridium.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT.statistics\bin\Debug\MathNet.Iridium.xml
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT.statistics\bin\Debug\QuiXoT.math.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT.statistics\bin\Debug\de\MathNet.Iridium.resources.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT.statistics\bin\Debug\es\MathNet.Iridium.resources.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT.statistics\bin\Debug\fr\MathNet.Iridium.resources.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT.statistics\obj\Debug\ResolveAssemblyReference.cache
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.OPgraph.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.csproj.GenerateResource.Cache
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT.statistics\bin\Debug\QuiXoT.statistics.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT.statistics\bin\Debug\QuiXoT.statistics.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT.statistics\bin\Debug\MathNet.Iridium.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT.statistics\bin\Debug\QuiXoT.math.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT.statistics\bin\Debug\MathNet.Iridium.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT.statistics\bin\Debug\MathNet.Iridium.xml
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT.statistics\bin\Debug\QuiXoT.math.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT.statistics\bin\Debug\de\MathNet.Iridium.resources.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT.statistics\bin\Debug\es\MathNet.Iridium.resources.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT.statistics\bin\Debug\fr\MathNet.Iridium.resources.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT.statistics\obj\Debug\ResolveAssemblyReference.cache
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.OPgraph.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.csproj.GenerateResource.Cache
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT.statistics\obj\Debug\ResolveAssemblyReference.cache
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.OPgraph.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.csproj.GenerateResource.Cache
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT.statistics\bin\Debug\QuiXoT.statistics.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT.statistics\bin\Debug\QuiXoT.statistics.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT.statistics\bin\Debug\MathNet.Iridium.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT.statistics\bin\Debug\QuiXoT.math.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT.statistics\bin\Debug\MathNet.Iridium.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT.statistics\bin\Debug\MathNet.Iridium.xml
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT.statistics\bin\Debug\QuiXoT.math.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT.statistics\bin\Debug\de\MathNet.Iridium.resources.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT.statistics\bin\Debug\es\MathNet.Iridium.resources.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT.statistics\bin\Debug\fr\MathNet.Iridium.resources.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT.statistics\obj\Debug\ResolveAssemblyReference.cache
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.OPgraph.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.csproj.GenerateResource.Cache
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT.statistics\bin\Debug\QuiXoT.statistics.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT.statistics\bin\Debug\QuiXoT.statistics.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT.statistics\bin\Debug\MathNet.Iridium.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT.statistics\bin\Debug\QuiXoT.math.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT.statistics\bin\Debug\MathNet.Iridium.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT.statistics\bin\Debug\MathNet.Iridium.xml
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT.statistics\bin\Debug\QuiXoT.math.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT.statistics\bin\Debug\de\MathNet.Iridium.resources.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT.statistics\bin\Debug\es\MathNet.Iridium.resources.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT.statistics\bin\Debug\fr\MathNet.Iridium.resources.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT.statistics\bin\Debug\QuiXoT.statistics.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT.statistics\bin\Debug\QuiXoT.statistics.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT.statistics\bin\Debug\MathNet.Iridium.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT.statistics\bin\Debug\QuiXoT.math.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT.statistics\bin\Debug\MathNet.Iridium.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT.statistics\bin\Debug\MathNet.Iridium.xml
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT.statistics\bin\Debug\QuiXoT.math.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT.statistics\bin\Debug\de\MathNet.Iridium.resources.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT.statistics\bin\Debug\es\MathNet.Iridium.resources.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT.statistics\bin\Debug\fr\MathNet.Iridium.resources.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT.statistics\obj\Debug\ResolveAssemblyReference.cache
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.OPgraph.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.csproj.GenerateResource.Cache
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.pdb
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\QuiXoT.statistics.dll
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\QuiXoT.statistics.pdb
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\QuiXoT.math.dll
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\MathNet.Iridium.pdb
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\MathNet.Iridium.xml
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\QuiXoT.math.pdb
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\de\MathNet.Iridium.resources.dll
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\es\MathNet.Iridium.resources.dll
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\fr\MathNet.Iridium.resources.dll
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.statistics\obj\Debug\ResolveAssemblyReference.cache
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.OPgraph.resources
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.csproj.GenerateResource.Cache
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.dll
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.pdb
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\QuiXoT.statistics.dll
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\QuiXoT.statistics.pdb
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\MathNet.Iridium.dll
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\QuiXoT.math.dll
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\QuiXoT.math.pdb
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\MathNet.Iridium.pdb
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\MathNet.Iridium.xml
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\de\MathNet.Iridium.resources.dll
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\es\MathNet.Iridium.resources.dll
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\fr\MathNet.Iridium.resources.dll
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.statistics\obj\Debug\ResolveAssemblyReference.cache
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.OPgraph.resources
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.csproj.GenerateResource.Cache
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.dll
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\QuiXoT.statistics.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\QuiXoT.statistics.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\QuiXoT.math.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\QuiXoT.math.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\MathNet.Iridium.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\MathNet.Iridium.xml
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\de\MathNet.Iridium.resources.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\es\MathNet.Iridium.resources.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\fr\MathNet.Iridium.resources.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.statistics\obj\Debug\ResolveAssemblyReference.cache
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.OPgraph.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.csproj.GenerateResource.Cache
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.pdb
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\QuiXoT.statistics.dll
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\QuiXoT.statistics.pdb
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\MathNet.Iridium.dll
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\QuiXoT.math.dll
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\QuiXoT.math.pdb
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\MathNet.Iridium.pdb
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\MathNet.Iridium.xml
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\de\MathNet.Iridium.resources.dll
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\es\MathNet.Iridium.resources.dll
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\fr\MathNet.Iridium.resources.dll
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.statistics\obj\Debug\ResolveAssemblyReference.cache
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.OPgraph.resources
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.csproj.GenerateResource.Cache
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.dll
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.pdb
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT.statistics\bin\Debug\QuiXoT.statistics.dll
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT.statistics\bin\Debug\QuiXoT.statistics.pdb
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT.statistics\bin\Debug\QuiXoT.math.dll
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT.statistics\bin\Debug\QuiXoT.math.pdb
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT.statistics\bin\Debug\MathNet.Iridium.pdb
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT.statistics\bin\Debug\MathNet.Iridium.xml
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT.statistics\bin\Debug\de\MathNet.Iridium.resources.dll
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT.statistics\bin\Debug\es\MathNet.Iridium.resources.dll
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT.statistics\bin\Debug\fr\MathNet.Iridium.resources.dll
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT.statistics\obj\Debug\ResolveAssemblyReference.cache
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.OPgraph.resources
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.csproj.GenerateResource.Cache
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.dll
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.pdb
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\QuiXoT.statistics.dll
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\QuiXoT.statistics.pdb
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\QuiXoT.math.dll
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\QuiXoT.math.pdb
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\MathNet.Iridium.pdb
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\MathNet.Iridium.xml
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\de\MathNet.Iridium.resources.dll
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\es\MathNet.Iridium.resources.dll
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\fr\MathNet.Iridium.resources.dll
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.statistics\obj\Debug\ResolveAssemblyReference.cache
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.OPgraph.resources
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.csproj.GenerateResource.Cache
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.dll
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.pdb
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\QuiXoT.statistics.dll
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\QuiXoT.statistics.pdb
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\QuiXoT.math.dll
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\QuiXoT.math.pdb
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\MathNet.Iridium.pdb
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\MathNet.Iridium.xml
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\de\MathNet.Iridium.resources.dll
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\es\MathNet.Iridium.resources.dll
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\fr\MathNet.Iridium.resources.dll
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.statistics\obj\Debug\ResolveAssemblyReference.cache
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.OPgraph.resources
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.csproj.GenerateResource.Cache
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.dll
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.pdb
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\QuiXoT.statistics.dll
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\QuiXoT.statistics.pdb
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\QuiXoT.math.dll
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\QuiXoT.math.pdb
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\MathNet.Iridium.pdb
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\MathNet.Iridium.xml
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\de\MathNet.Iridium.resources.dll
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\es\MathNet.Iridium.resources.dll
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\fr\MathNet.Iridium.resources.dll
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.statistics\obj\Debug\ResolveAssemblyReference.cache
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.OPgraph.resources
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.csproj.GenerateResource.Cache
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.dll
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.pdb
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\QuiXoT.statistics.dll
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\QuiXoT.statistics.pdb
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\QuiXoT.math.dll
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\QuiXoT.math.pdb
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\MathNet.Iridium.pdb
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\MathNet.Iridium.xml
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\de\MathNet.Iridium.resources.dll
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\es\MathNet.Iridium.resources.dll
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\fr\MathNet.Iridium.resources.dll
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.statistics\obj\Debug\ResolveAssemblyReference.cache
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.OPgraph.resources
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.csproj.GenerateResource.Cache
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.dll
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT.statistics\bin\Debug\QuiXoT.statistics.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT.statistics\bin\Debug\QuiXoT.statistics.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT.statistics\bin\Debug\QuiXoT.math.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT.statistics\bin\Debug\QuiXoT.math.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT.statistics\bin\Debug\MathNet.Iridium.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT.statistics\bin\Debug\MathNet.Iridium.xml
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT.statistics\bin\Debug\de\MathNet.Iridium.resources.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT.statistics\bin\Debug\es\MathNet.Iridium.resources.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT.statistics\bin\Debug\fr\MathNet.Iridium.resources.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT.statistics\obj\Debug\ResolveAssemblyReference.cache
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.OPgraph.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.csproj.GenerateResource.Cache
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT.statistics\bin\Debug\QuiXoT.statistics.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT.statistics\bin\Debug\QuiXoT.statistics.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT.statistics\bin\Debug\QuiXoT.math.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT.statistics\bin\Debug\QuiXoT.math.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT.statistics\bin\Debug\MathNet.Iridium.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT.statistics\bin\Debug\MathNet.Iridium.xml
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT.statistics\bin\Debug\de\MathNet.Iridium.resources.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT.statistics\bin\Debug\es\MathNet.Iridium.resources.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT.statistics\bin\Debug\fr\MathNet.Iridium.resources.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT.statistics\obj\Debug\ResolveAssemblyReference.cache
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.OPgraph.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.csproj.GenerateResource.Cache
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.pdb
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\QuiXoT.statistics.dll
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\QuiXoT.statistics.pdb
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\QuiXoT.math.dll
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\QuiXoT.math.pdb
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\MathNet.Iridium.pdb
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\MathNet.Iridium.xml
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\de\MathNet.Iridium.resources.dll
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\es\MathNet.Iridium.resources.dll
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\fr\MathNet.Iridium.resources.dll
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.statistics\obj\Debug\ResolveAssemblyReference.cache
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.OPgraph.resources
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.csproj.GenerateResource.Cache
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.dll
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.pdb
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\QuiXoT.statistics.dll
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\QuiXoT.statistics.pdb
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\QuiXoT.math.dll
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\QuiXoT.math.pdb
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\MathNet.Iridium.pdb
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\MathNet.Iridium.xml
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\de\MathNet.Iridium.resources.dll
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\es\MathNet.Iridium.resources.dll
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT.statistics\bin\Debug\fr\MathNet.Iridium.resources.dll
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT.statistics\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.OPgraph.resources
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.csproj.GenerateResource.Cache
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.dll
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT.statistics\obj\Debug\QuiXoT.statistics.pdb

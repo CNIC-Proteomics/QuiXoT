@@ -1,0 +1,1192 @@
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT\bin\Debug\QuiXoT.exe.config
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT\obj\Debug\QuiXoT.exe
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT\obj\Debug\QuiXoT.pdb
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT\bin\Debug\QuiXoT.exe.manifest
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT\bin\Debug\QuiXoT.application
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT\bin\Debug\QuiXoT.exe
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT\bin\Debug\QuiXoT.pdb
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT\bin\Debug\QuiXoT.DA_Raw.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT\bin\Debug\QuiXoT.DA_stackRAW.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT\bin\Debug\QuiXoT.lookUp.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT\bin\Debug\QuiXoT.math.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT\bin\Debug\QuiXoT.statistics.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT\bin\Debug\Interop.XCALIBURFILESLib.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT\bin\Debug\MathNet.Iridium.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT\bin\Debug\QuiXoT.lookUp.pdb
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT\bin\Debug\QuiXoT.math.pdb
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT\bin\Debug\QuiXoT.DA_stackRAW.pdb
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT\bin\Debug\QuiXoT.statistics.pdb
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT\bin\Debug\MathNet.Iridium.pdb
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT\bin\Debug\MathNet.Iridium.xml
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT\bin\Debug\QuiXoT.DA_Raw.pdb
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT\bin\Debug\de\MathNet.Iridium.resources.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT\bin\Debug\es\MathNet.Iridium.resources.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT\bin\Debug\fr\MathNet.Iridium.resources.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT\obj\Debug\QuiXoT.AboutBox.resources
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT\obj\Debug\DataGridFilter.ColumnFilterForm.resources
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT\obj\Debug\DataGridFilter.DataFilterForm.resources
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT\obj\Debug\QuiXoT.Form1.resources
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT\obj\Debug\QuiXoT.OPchangeColV.resources
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT\obj\Debug\QuiXoT.OPcolor.resources
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT\obj\Debug\QuiXoT.OPImage.resources
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT\obj\Debug\QuiXoT.OPstatsPreview.resources
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT\obj\Debug\QuiXoT.OPfitWindow.resources
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT\obj\Debug\QuiXoT.OPlic.resources
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT\obj\Debug\QuiXoT.OPpeptCtChange.resources
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT\obj\Debug\QuiXoT.OPquan.resources
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT\obj\Debug\QuiXoT.Properties.Resources.resources
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT\obj\Debug\QuiXoT.OPviewer.resources
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT\obj\Debug\QuiXoT.sleeve.resources
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT\obj\Debug\QuiXoT.csproj.GenerateResource.Cache
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT\obj\Debug\QuiXoT.TrustInfo.xml
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT\obj\Debug\QuiXoT.exe.manifest
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.92\QuiXoT\obj\Debug\QuiXoT.application
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT\bin\Debug\QuiXoT.exe.config
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT\obj\Debug\QuiXoT.exe
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT\obj\Debug\QuiXoT.pdb
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT\bin\Debug\QuiXoT.exe.manifest
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT\bin\Debug\QuiXoT.application
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT\bin\Debug\QuiXoT.exe
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT\bin\Debug\QuiXoT.pdb
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT\bin\Debug\QuiXoT.DA_Raw.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT\bin\Debug\QuiXoT.DA_stackRAW.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT\bin\Debug\QuiXoT.lookUp.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT\bin\Debug\QuiXoT.math.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT\bin\Debug\QuiXoT.statistics.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT\bin\Debug\Interop.XCALIBURFILESLib.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT\bin\Debug\MathNet.Iridium.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT\bin\Debug\QuiXoT.lookUp.pdb
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT\bin\Debug\QuiXoT.math.pdb
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT\bin\Debug\QuiXoT.DA_stackRAW.pdb
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT\bin\Debug\QuiXoT.statistics.pdb
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT\bin\Debug\MathNet.Iridium.pdb
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT\bin\Debug\MathNet.Iridium.xml
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT\bin\Debug\QuiXoT.DA_Raw.pdb
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT\bin\Debug\de\MathNet.Iridium.resources.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT\bin\Debug\es\MathNet.Iridium.resources.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT\bin\Debug\fr\MathNet.Iridium.resources.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT\obj\Debug\QuiXoT.AboutBox.resources
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT\obj\Debug\DataGridFilter.ColumnFilterForm.resources
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT\obj\Debug\DataGridFilter.DataFilterForm.resources
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT\obj\Debug\QuiXoT.Form1.resources
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT\obj\Debug\QuiXoT.OPchangeColV.resources
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT\obj\Debug\QuiXoT.OPcolor.resources
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT\obj\Debug\QuiXoT.OPImage.resources
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT\obj\Debug\QuiXoT.OPstatsPreview.resources
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT\obj\Debug\QuiXoT.OPfitWindow.resources
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT\obj\Debug\QuiXoT.OPlic.resources
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT\obj\Debug\QuiXoT.OPpeptCtChange.resources
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT\obj\Debug\QuiXoT.OPquan.resources
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT\obj\Debug\QuiXoT.Properties.Resources.resources
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT\obj\Debug\QuiXoT.OPviewer.resources
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT\obj\Debug\QuiXoT.sleeve.resources
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT\obj\Debug\QuiXoT.csproj.GenerateResource.Cache
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT\obj\Debug\QuiXoT.TrustInfo.xml
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT\obj\Debug\QuiXoT.exe.manifest
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.93\QuiXoT\obj\Debug\QuiXoT.application
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\bin\Debug\QuiXoT.exe.config
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\bin\Debug\QuiXoT.exe.manifest
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\bin\Debug\QuiXoT.application
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\bin\Debug\QuiXoT.exe
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\bin\Debug\QuiXoT.pdb
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\bin\Debug\QuiXoT.DA_Raw.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\bin\Debug\QuiXoT.DA_stackRAW.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\bin\Debug\QuiXoT.lookUp.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\bin\Debug\QuiXoT.math.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\bin\Debug\QuiXoT.statistics.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\bin\Debug\Interop.XCALIBURFILESLib.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\bin\Debug\MathNet.Iridium.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\bin\Debug\QuiXoT.lookUp.pdb
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\bin\Debug\QuiXoT.math.pdb
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\bin\Debug\QuiXoT.DA_stackRAW.pdb
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\bin\Debug\QuiXoT.statistics.pdb
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\bin\Debug\MathNet.Iridium.pdb
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\bin\Debug\MathNet.Iridium.xml
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\bin\Debug\QuiXoT.DA_Raw.pdb
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\bin\Debug\de\MathNet.Iridium.resources.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\bin\Debug\es\MathNet.Iridium.resources.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\bin\Debug\fr\MathNet.Iridium.resources.dll
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\obj\Debug\QuiXoT.AboutBox.resources
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\obj\Debug\DataGridFilter.ColumnFilterForm.resources
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\obj\Debug\DataGridFilter.DataFilterForm.resources
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\obj\Debug\QuiXoT.Form1.resources
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\obj\Debug\QuiXoT.OPchangeColV.resources
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\obj\Debug\QuiXoT.OPcolor.resources
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\obj\Debug\QuiXoT.OPImage.resources
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\obj\Debug\QuiXoT.OPstatsPreview.resources
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\obj\Debug\QuiXoT.OPfitWindow.resources
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\obj\Debug\QuiXoT.OPlic.resources
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\obj\Debug\QuiXoT.OPpeptCtChange.resources
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\obj\Debug\QuiXoT.OPquan.resources
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\obj\Debug\QuiXoT.Properties.Resources.resources
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\obj\Debug\QuiXoT.OPviewer.resources
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\obj\Debug\QuiXoT.sleeve.resources
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\obj\Debug\QuiXoT.csproj.GenerateResource.Cache
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\obj\Debug\QuiXoT.TrustInfo.xml
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\obj\Debug\QuiXoT.exe.manifest
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\obj\Debug\QuiXoT.application
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\obj\Debug\QuiXoT.exe
+C:\Documents and Settings\Jesús Vázquez\Escritorio\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\obj\Debug\QuiXoT.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\bin\Debug\QuiXoT.exe.config
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\obj\Debug\QuiXoT.exe
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\obj\Debug\QuiXoT.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\bin\Debug\QuiXoT.exe.manifest
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\bin\Debug\QuiXoT.application
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\bin\Debug\QuiXoT.exe
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\bin\Debug\QuiXoT.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\bin\Debug\QuiXoT.DA_Raw.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\bin\Debug\QuiXoT.DA_stackRAW.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\bin\Debug\QuiXoT.lookUp.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\bin\Debug\QuiXoT.math.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\bin\Debug\QuiXoT.statistics.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\bin\Debug\Interop.XCALIBURFILESLib.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\bin\Debug\MathNet.Iridium.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\bin\Debug\QuiXoT.lookUp.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\bin\Debug\QuiXoT.math.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\bin\Debug\QuiXoT.DA_stackRAW.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\bin\Debug\QuiXoT.statistics.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\bin\Debug\MathNet.Iridium.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\bin\Debug\MathNet.Iridium.xml
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\bin\Debug\QuiXoT.DA_Raw.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\bin\Debug\de\MathNet.Iridium.resources.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\bin\Debug\es\MathNet.Iridium.resources.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\bin\Debug\fr\MathNet.Iridium.resources.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\obj\Debug\ResolveAssemblyReference.cache
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\obj\Debug\QuiXoT.AboutBox.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\obj\Debug\DataGridFilter.ColumnFilterForm.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\obj\Debug\DataGridFilter.DataFilterForm.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\obj\Debug\QuiXoT.Form1.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\obj\Debug\QuiXoT.OPchangeColV.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\obj\Debug\QuiXoT.OPcolor.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\obj\Debug\QuiXoT.OPImage.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\obj\Debug\QuiXoT.OPstatsPreview.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\obj\Debug\QuiXoT.OPfitWindow.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\obj\Debug\QuiXoT.OPlic.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\obj\Debug\QuiXoT.OPpeptCtChange.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\obj\Debug\QuiXoT.OPquan.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\obj\Debug\QuiXoT.Properties.Resources.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\obj\Debug\QuiXoT.OPviewer.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\obj\Debug\QuiXoT.sleeve.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\obj\Debug\QuiXoT.csproj.GenerateResource.Cache
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\obj\Debug\QuiXoT.TrustInfo.xml
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\obj\Debug\QuiXoT.exe.manifest
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.94\QuiXoT\obj\Debug\QuiXoT.application
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT\bin\Debug\QuiXoT.exe.config
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT\obj\Debug\QuiXoT.exe
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT\obj\Debug\QuiXoT.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT\bin\Debug\QuiXoT.exe.manifest
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT\bin\Debug\QuiXoT.application
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT\bin\Debug\QuiXoT.exe
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT\bin\Debug\QuiXoT.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT\bin\Debug\QuiXoT.DA_Raw.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT\bin\Debug\QuiXoT.DA_stackRAW.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT\bin\Debug\QuiXoT.lookUp.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT\bin\Debug\QuiXoT.math.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT\bin\Debug\QuiXoT.statistics.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT\bin\Debug\Interop.XCALIBURFILESLib.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT\bin\Debug\MathNet.Iridium.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT\bin\Debug\QuiXoT.lookUp.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT\bin\Debug\QuiXoT.math.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT\bin\Debug\QuiXoT.DA_stackRAW.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT\bin\Debug\QuiXoT.statistics.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT\bin\Debug\MathNet.Iridium.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT\bin\Debug\MathNet.Iridium.xml
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT\bin\Debug\QuiXoT.DA_Raw.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT\bin\Debug\de\MathNet.Iridium.resources.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT\bin\Debug\es\MathNet.Iridium.resources.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT\bin\Debug\fr\MathNet.Iridium.resources.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT\obj\Debug\ResolveAssemblyReference.cache
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT\obj\Debug\QuiXoT.AboutBox.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT\obj\Debug\DataGridFilter.ColumnFilterForm.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT\obj\Debug\DataGridFilter.DataFilterForm.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT\obj\Debug\QuiXoT.Form1.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT\obj\Debug\QuiXoT.OPchangeColV.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT\obj\Debug\QuiXoT.OPcolor.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT\obj\Debug\QuiXoT.OPImage.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT\obj\Debug\QuiXoT.OPstatsPreview.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT\obj\Debug\QuiXoT.OPfitWindow.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT\obj\Debug\QuiXoT.OPlic.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT\obj\Debug\QuiXoT.OPpeptCtChange.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT\obj\Debug\QuiXoT.OPquan.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT\obj\Debug\QuiXoT.Properties.Resources.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT\obj\Debug\QuiXoT.OPviewer.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT\obj\Debug\QuiXoT.sleeve.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT\obj\Debug\QuiXoT.csproj.GenerateResource.Cache
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT\obj\Debug\QuiXoT.TrustInfo.xml
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT\obj\Debug\QuiXoT.exe.manifest
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT\obj\Debug\QuiXoT.application
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT\obj\Debug\QuiXoT.OPgrapherPreview.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.95\QuiXoT\obj\Debug\QuiXoT.OPgrapher.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT\bin\Debug\QuiXoT.exe.config
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT\obj\Debug\QuiXoT.exe
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT\obj\Debug\QuiXoT.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT\bin\Debug\QuiXoT.exe.manifest
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT\bin\Debug\QuiXoT.application
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT\bin\Debug\QuiXoT.exe
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT\bin\Debug\QuiXoT.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT\bin\Debug\QuiXoT.DA_Raw.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT\bin\Debug\QuiXoT.DA_stackRAW.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT\bin\Debug\QuiXoT.lookUp.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT\bin\Debug\QuiXoT.math.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT\bin\Debug\QuiXoT.statistics.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT\bin\Debug\Interop.XCALIBURFILESLib.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT\bin\Debug\MathNet.Iridium.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT\bin\Debug\QuiXoT.lookUp.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT\bin\Debug\QuiXoT.math.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT\bin\Debug\QuiXoT.DA_stackRAW.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT\bin\Debug\QuiXoT.statistics.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT\bin\Debug\MathNet.Iridium.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT\bin\Debug\MathNet.Iridium.xml
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT\bin\Debug\QuiXoT.DA_Raw.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT\bin\Debug\de\MathNet.Iridium.resources.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT\bin\Debug\es\MathNet.Iridium.resources.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT\bin\Debug\fr\MathNet.Iridium.resources.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT\obj\Debug\ResolveAssemblyReference.cache
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT\obj\Debug\QuiXoT.AboutBox.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT\obj\Debug\DataGridFilter.ColumnFilterForm.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT\obj\Debug\DataGridFilter.DataFilterForm.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT\obj\Debug\QuiXoT.Form1.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT\obj\Debug\QuiXoT.OPchangeColV.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT\obj\Debug\QuiXoT.OPcolor.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT\obj\Debug\QuiXoT.OPgrapher.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT\obj\Debug\QuiXoT.OPgrapherPreview.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT\obj\Debug\QuiXoT.OPImage.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT\obj\Debug\QuiXoT.OPstatsPreview.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT\obj\Debug\QuiXoT.OPfitWindow.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT\obj\Debug\QuiXoT.OPlic.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT\obj\Debug\QuiXoT.OPpeptCtChange.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT\obj\Debug\QuiXoT.OPquan.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT\obj\Debug\QuiXoT.Properties.Resources.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT\obj\Debug\QuiXoT.OPviewer.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT\obj\Debug\QuiXoT.sleeve.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT\obj\Debug\QuiXoT.csproj.GenerateResource.Cache
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT\obj\Debug\QuiXoT.TrustInfo.xml
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT\obj\Debug\QuiXoT.exe.manifest
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT\obj\Debug\QuiXoT.application
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.96\QuiXoT\obj\Debug\QuiXoT.OPredPreference.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT\bin\Debug\QuiXoT.exe.config
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT\obj\Debug\QuiXoT.exe
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT\obj\Debug\QuiXoT.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT\bin\Debug\QuiXoT.exe.manifest
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT\bin\Debug\QuiXoT.application
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT\bin\Debug\QuiXoT.exe
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT\bin\Debug\QuiXoT.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT\bin\Debug\QuiXoT.DA_Raw.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT\bin\Debug\QuiXoT.DA_stackRAW.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT\bin\Debug\QuiXoT.lookUp.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT\bin\Debug\QuiXoT.math.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT\bin\Debug\QuiXoT.statistics.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT\bin\Debug\Interop.XCALIBURFILESLib.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT\bin\Debug\MathNet.Iridium.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT\bin\Debug\QuiXoT.lookUp.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT\bin\Debug\QuiXoT.math.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT\bin\Debug\QuiXoT.DA_stackRAW.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT\bin\Debug\QuiXoT.statistics.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT\bin\Debug\MathNet.Iridium.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT\bin\Debug\MathNet.Iridium.xml
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT\bin\Debug\QuiXoT.DA_Raw.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT\bin\Debug\de\MathNet.Iridium.resources.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT\bin\Debug\es\MathNet.Iridium.resources.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT\bin\Debug\fr\MathNet.Iridium.resources.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT\obj\Debug\ResolveAssemblyReference.cache
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT\obj\Debug\QuiXoT.AboutBox.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT\obj\Debug\DataGridFilter.ColumnFilterForm.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT\obj\Debug\DataGridFilter.DataFilterForm.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT\obj\Debug\QuiXoT.Form1.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT\obj\Debug\QuiXoT.OPchangeColV.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT\obj\Debug\QuiXoT.OPcolor.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT\obj\Debug\QuiXoT.OPgrapher.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT\obj\Debug\QuiXoT.OPgrapherPreview.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT\obj\Debug\QuiXoT.OPImage.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT\obj\Debug\QuiXoT.OPredPreference.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT\obj\Debug\QuiXoT.OPstatsPreview.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT\obj\Debug\QuiXoT.OPfitWindow.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT\obj\Debug\QuiXoT.OPlic.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT\obj\Debug\QuiXoT.OPpeptCtChange.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT\obj\Debug\QuiXoT.OPquan.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT\obj\Debug\QuiXoT.Properties.Resources.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT\obj\Debug\QuiXoT.OPviewer.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT\obj\Debug\QuiXoT.sleeve.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT\obj\Debug\QuiXoT.csproj.GenerateResource.Cache
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT\obj\Debug\QuiXoT.TrustInfo.xml
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT\obj\Debug\QuiXoT.exe.manifest
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT\obj\Debug\QuiXoT.application
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.97\QuiXoT\obj\Debug\QuiXoT.OPselectBoundsGraph.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT\obj\Debug\ResolveAssemblyReference.cache
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT\obj\Debug\QuiXoT.AboutBox.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT\obj\Debug\DataGridFilter.ColumnFilterForm.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT\obj\Debug\DataGridFilter.DataFilterForm.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT\obj\Debug\QuiXoT.Form1.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT\obj\Debug\QuiXoT.OPchangeColV.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT\obj\Debug\QuiXoT.OPcolor.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT\obj\Debug\QuiXoT.OPgrapher.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT\obj\Debug\QuiXoT.OPgrapherPreview.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT\obj\Debug\QuiXoT.OPImage.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT\obj\Debug\QuiXoT.OPredPreference.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT\obj\Debug\QuiXoT.OPselectBoundsGraph.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT\obj\Debug\QuiXoT.OPstatsPreview.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT\obj\Debug\QuiXoT.OPfitWindow.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT\obj\Debug\QuiXoT.OPlic.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT\obj\Debug\QuiXoT.OPpeptCtChange.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT\obj\Debug\QuiXoT.OPquan.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT\obj\Debug\QuiXoT.Properties.Resources.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT\obj\Debug\QuiXoT.OPviewer.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT\obj\Debug\QuiXoT.sleeve.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT\obj\Debug\QuiXoT.csproj.GenerateResource.Cache
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT\obj\Debug\QuiXoT.exe
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT\bin\Debug\QuiXoT.exe.config
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT\bin\Debug\QuiXoT.exe.manifest
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT\bin\Debug\QuiXoT.application
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT\bin\Debug\QuiXoT.exe
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT\bin\Debug\QuiXoT.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT\bin\Debug\QuiXoT.DA_Raw.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT\bin\Debug\QuiXoT.DA_stackRAW.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT\bin\Debug\QuiXoT.lookUp.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT\bin\Debug\QuiXoT.math.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT\bin\Debug\QuiXoT.statistics.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT\bin\Debug\Interop.XCALIBURFILESLib.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT\bin\Debug\MathNet.Iridium.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT\bin\Debug\QuiXoT.lookUp.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT\bin\Debug\QuiXoT.math.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT\bin\Debug\QuiXoT.DA_stackRAW.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT\bin\Debug\QuiXoT.statistics.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT\bin\Debug\MathNet.Iridium.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT\bin\Debug\MathNet.Iridium.xml
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT\bin\Debug\QuiXoT.DA_Raw.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT\bin\Debug\de\MathNet.Iridium.resources.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT\bin\Debug\es\MathNet.Iridium.resources.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT\bin\Debug\fr\MathNet.Iridium.resources.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT\obj\Debug\QuiXoT.TrustInfo.xml
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT\obj\Debug\QuiXoT.exe.manifest
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT\obj\Debug\QuiXoT.application
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT\obj\Debug\QuiXoT.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT\obj\Debug\QuiXoT.OPcalcVarPreview.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.98\QuiXoT\obj\Debug\QuiXoT.OPcalcVarEnd.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT\bin\Debug\QuiXoT.exe.config
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT\bin\Debug\QuiXoT.exe.manifest
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT\bin\Debug\QuiXoT.application
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT\bin\Debug\QuiXoT.exe
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT\bin\Debug\QuiXoT.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT\bin\Debug\QuiXoT.DA_Raw.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT\bin\Debug\QuiXoT.DA_stackRAW.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT\bin\Debug\QuiXoT.lookUp.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT\bin\Debug\QuiXoT.math.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT\bin\Debug\QuiXoT.statistics.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT\bin\Debug\Interop.XCALIBURFILESLib.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT\bin\Debug\MathNet.Iridium.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT\bin\Debug\QuiXoT.lookUp.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT\bin\Debug\QuiXoT.math.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT\bin\Debug\QuiXoT.DA_stackRAW.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT\bin\Debug\QuiXoT.statistics.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT\bin\Debug\MathNet.Iridium.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT\bin\Debug\MathNet.Iridium.xml
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT\bin\Debug\QuiXoT.DA_Raw.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT\bin\Debug\de\MathNet.Iridium.resources.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT\bin\Debug\es\MathNet.Iridium.resources.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT\bin\Debug\fr\MathNet.Iridium.resources.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT\obj\Debug\ResolveAssemblyReference.cache
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT\obj\Debug\QuiXoT.AboutBox.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT\obj\Debug\DataGridFilter.ColumnFilterForm.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT\obj\Debug\DataGridFilter.DataFilterForm.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT\obj\Debug\QuiXoT.Form1.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT\obj\Debug\QuiXoT.OPcalcVarEnd.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT\obj\Debug\QuiXoT.OPcalcVarPreview.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT\obj\Debug\QuiXoT.OPchangeColV.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT\obj\Debug\QuiXoT.OPcolor.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT\obj\Debug\QuiXoT.OPgrapher.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT\obj\Debug\QuiXoT.OPgrapherPreview.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT\obj\Debug\QuiXoT.OPImage.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT\obj\Debug\QuiXoT.OPredPreference.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT\obj\Debug\QuiXoT.OPselectBoundsGraph.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT\obj\Debug\QuiXoT.OPstatsPreview.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT\obj\Debug\QuiXoT.OPfitWindow.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT\obj\Debug\QuiXoT.OPlic.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT\obj\Debug\QuiXoT.OPpeptCtChange.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT\obj\Debug\QuiXoT.OPquan.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT\obj\Debug\QuiXoT.Properties.Resources.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT\obj\Debug\QuiXoT.OPviewer.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT\obj\Debug\QuiXoT.sleeve.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT\obj\Debug\QuiXoT.csproj.GenerateResource.Cache
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT\obj\Debug\QuiXoT.TrustInfo.xml
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT\obj\Debug\QuiXoT.exe.manifest
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT\obj\Debug\QuiXoT.application
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT\obj\Debug\QuiXoT.exe
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.0.99\QuiXoT\obj\Debug\QuiXoT.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT\bin\Debug\QuiXoT.exe.config
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT\bin\Debug\QuiXoT.exe.manifest
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT\bin\Debug\QuiXoT.application
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT\bin\Debug\QuiXoT.exe
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT\bin\Debug\QuiXoT.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT\bin\Debug\QuiXoT.DA_Raw.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT\bin\Debug\QuiXoT.DA_stackRAW.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT\bin\Debug\QuiXoT.lookUp.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT\bin\Debug\QuiXoT.math.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT\bin\Debug\QuiXoT.statistics.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT\bin\Debug\Interop.XCALIBURFILESLib.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT\bin\Debug\MathNet.Iridium.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT\bin\Debug\QuiXoT.lookUp.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT\bin\Debug\QuiXoT.math.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT\bin\Debug\QuiXoT.DA_stackRAW.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT\bin\Debug\QuiXoT.statistics.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT\bin\Debug\MathNet.Iridium.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT\bin\Debug\MathNet.Iridium.xml
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT\bin\Debug\QuiXoT.DA_Raw.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT\bin\Debug\de\MathNet.Iridium.resources.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT\bin\Debug\es\MathNet.Iridium.resources.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT\bin\Debug\fr\MathNet.Iridium.resources.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT\obj\Debug\ResolveAssemblyReference.cache
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT\obj\Debug\QuiXoT.AboutBox.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT\obj\Debug\DataGridFilter.ColumnFilterForm.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT\obj\Debug\DataGridFilter.DataFilterForm.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT\obj\Debug\QuiXoT.Form1.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT\obj\Debug\QuiXoT.OPcalcVarEnd.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT\obj\Debug\QuiXoT.OPcalcVarPreview.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT\obj\Debug\QuiXoT.OPchangeColV.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT\obj\Debug\QuiXoT.OPcolor.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT\obj\Debug\QuiXoT.OPgrapher.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT\obj\Debug\QuiXoT.OPgrapherPreview.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT\obj\Debug\QuiXoT.OPImage.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT\obj\Debug\QuiXoT.OPredPreference.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT\obj\Debug\QuiXoT.OPselectBoundsGraph.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT\obj\Debug\QuiXoT.OPstatsPreview.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT\obj\Debug\QuiXoT.OPfitWindow.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT\obj\Debug\QuiXoT.OPlic.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT\obj\Debug\QuiXoT.OPpeptCtChange.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT\obj\Debug\QuiXoT.OPquan.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT\obj\Debug\QuiXoT.Properties.Resources.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT\obj\Debug\QuiXoT.OPviewer.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT\obj\Debug\QuiXoT.sleeve.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT\obj\Debug\QuiXoT.csproj.GenerateResource.Cache
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT\obj\Debug\QuiXoT.TrustInfo.xml
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT\obj\Debug\QuiXoT.exe.manifest
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT\obj\Debug\QuiXoT.application
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT\obj\Debug\QuiXoT.exe
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT\obj\Debug\QuiXoT.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT\bin\Debug\QuiXoT.exe.config
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT\obj\Debug\QuiXoT.exe
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT\obj\Debug\QuiXoT.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT\bin\Debug\QuiXoT.exe.manifest
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT\bin\Debug\QuiXoT.application
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT\bin\Debug\QuiXoT.exe
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT\bin\Debug\QuiXoT.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT\bin\Debug\QuiXoT.DA_Raw.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT\bin\Debug\QuiXoT.DA_stackRAW.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT\bin\Debug\QuiXoT.lookUp.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT\bin\Debug\QuiXoT.math.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT\bin\Debug\QuiXoT.statistics.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT\bin\Debug\Interop.XCALIBURFILESLib.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT\bin\Debug\MathNet.Iridium.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT\bin\Debug\QuiXoT.lookUp.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT\bin\Debug\QuiXoT.math.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT\bin\Debug\QuiXoT.DA_stackRAW.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT\bin\Debug\QuiXoT.statistics.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT\bin\Debug\MathNet.Iridium.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT\bin\Debug\MathNet.Iridium.xml
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT\bin\Debug\QuiXoT.DA_Raw.pdb
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT\bin\Debug\de\MathNet.Iridium.resources.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT\bin\Debug\es\MathNet.Iridium.resources.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT\bin\Debug\fr\MathNet.Iridium.resources.dll
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT\obj\Debug\ResolveAssemblyReference.cache
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT\obj\Debug\QuiXoT.AboutBox.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT\obj\Debug\DataGridFilter.ColumnFilterForm.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT\obj\Debug\DataGridFilter.DataFilterForm.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT\obj\Debug\QuiXoT.Form1.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT\obj\Debug\QuiXoT.OPcalcVarEnd.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT\obj\Debug\QuiXoT.OPcalcVarPreview.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT\obj\Debug\QuiXoT.OPchangeColV.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT\obj\Debug\QuiXoT.OPcolor.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT\obj\Debug\QuiXoT.OPgrapher.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT\obj\Debug\QuiXoT.OPgrapherPreview.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT\obj\Debug\QuiXoT.OPImage.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT\obj\Debug\QuiXoT.OPredPreference.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT\obj\Debug\QuiXoT.OPselectBoundsGraph.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT\obj\Debug\QuiXoT.OPstatsPreview.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT\obj\Debug\QuiXoT.OPfitWindow.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT\obj\Debug\QuiXoT.OPlic.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT\obj\Debug\QuiXoT.OPpeptCtChange.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT\obj\Debug\QuiXoT.OPquan.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT\obj\Debug\QuiXoT.Properties.Resources.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT\obj\Debug\QuiXoT.OPviewer.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT\obj\Debug\QuiXoT.sleeve.resources
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT\obj\Debug\QuiXoT.csproj.GenerateResource.Cache
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT\obj\Debug\QuiXoT.TrustInfo.xml
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT\obj\Debug\QuiXoT.exe.manifest
+F:\wrk\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00test\QuiXoT\obj\Debug\QuiXoT.application
+F:\wrk\soft_factory\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT\bin\Debug\QuiXoT.exe.config
+F:\wrk\soft_factory\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT\obj\Debug\QuiXoT.exe
+F:\wrk\soft_factory\QuiXoT\QuiXoT_versions\QuiXoT_v1.1.00\QuiXoT\obj\Debug\QuiXoT.pdb
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.exe.config
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.exe
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.pdb
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.exe.manifest
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.application
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.exe
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.pdb
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.DA_Raw.dll
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.DA_stackRAW.dll
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.lookUp.dll
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.math.dll
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.statistics.dll
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\Interop.XCALIBURFILESLib.dll
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\MathNet.Iridium.dll
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.lookUp.pdb
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.math.pdb
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.DA_stackRAW.pdb
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.statistics.pdb
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\MathNet.Iridium.pdb
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\MathNet.Iridium.xml
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.DA_Raw.pdb
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\de\MathNet.Iridium.resources.dll
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\es\MathNet.Iridium.resources.dll
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\fr\MathNet.Iridium.resources.dll
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\ResolveAssemblyReference.cache
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.AboutBox.resources
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\DataGridFilter.ColumnFilterForm.resources
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\DataGridFilter.DataFilterForm.resources
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.Form1.resources
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPcalcVarEnd.resources
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPcalcVarPreview.resources
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPchangeColV.resources
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPcolor.resources
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPgrapher.resources
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPgrapherPreview.resources
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPImage.resources
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPredPreference.resources
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPselectBoundsGraph.resources
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPstatsPreview.resources
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPfitWindow.resources
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPlic.resources
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPpeptCtChange.resources
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPquan.resources
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.Properties.Resources.resources
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPviewer.resources
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.sleeve.resources
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.csproj.GenerateResource.Cache
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.TrustInfo.xml
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.exe.manifest
+F:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.application
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.exe.config
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.exe.manifest
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.application
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.exe
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.pdb
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.DA_Raw.dll
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.DA_stackRAW.dll
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.lookUp.dll
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.math.dll
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.statistics.dll
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.statistics.pdb
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.DA_Raw.pdb
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\MathNet.Iridium.pdb
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\MathNet.Iridium.xml
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.math.pdb
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.lookUp.pdb
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.DA_stackRAW.pdb
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\de\MathNet.Iridium.resources.dll
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\es\MathNet.Iridium.resources.dll
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\fr\MathNet.Iridium.resources.dll
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\AxInterop.Microsoft.Vbe.Interop.Forms.dll
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\ResolveAssemblyReference.cache
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\AxInterop.Microsoft.Vbe.Interop.Forms.dll
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.csproj.ResolveComReference.cache
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.AboutBox.resources
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\DataGridFilter.ColumnFilterForm.resources
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\DataGridFilter.DataFilterForm.resources
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPcalcVarEnd.resources
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPcalcVarPreview.resources
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPchangeColV.resources
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPcolor.resources
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPgrapher.resources
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPgrapherPreview.resources
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPImage.resources
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPredPreference.resources
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPselectBoundsGraph.resources
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPselectMethod.resources
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPstatsPreview.resources
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPlic.resources
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPpeptCtChange.resources
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPquan.resources
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.Properties.Resources.resources
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPviewer.resources
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.sleeve.resources
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.csproj.GenerateResource.Cache
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.TrustInfo.xml
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.exe.manifest
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.application
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.exe
+I:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.exe.config
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\obj\Debug\AxInterop.Microsoft.Vbe.Interop.Forms.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.csproj.ResolveComReference.cache
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.exe
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.exe.manifest
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.application
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.exe
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.DA_Raw.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.DA_stackRAW.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.lookUp.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.math.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.statistics.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.statistics.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.DA_Raw.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\bin\Debug\MathNet.Iridium.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\bin\Debug\MathNet.Iridium.xml
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.math.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.lookUp.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.DA_stackRAW.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\bin\Debug\de\MathNet.Iridium.resources.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\bin\Debug\es\MathNet.Iridium.resources.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\bin\Debug\fr\MathNet.Iridium.resources.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\bin\Debug\AxInterop.Microsoft.Vbe.Interop.Forms.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\obj\Debug\ResolveAssemblyReference.cache
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.AboutBox.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\obj\Debug\DataGridFilter.ColumnFilterForm.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\obj\Debug\DataGridFilter.DataFilterForm.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPcalcVarEnd.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPcalcVarPreview.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPchangeColV.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPcolor.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPgrapher.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPgrapherPreview.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPImage.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPredPreference.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPselectBoundsGraph.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPselectMethod.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPstatsPreview.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPlic.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPpeptCtChange.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPquan.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.Properties.Resources.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPviewer.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.sleeve.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.csproj.GenerateResource.Cache
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.TrustInfo.xml
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.exe.manifest
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.application
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.exe.config
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\AxInterop.Microsoft.Vbe.Interop.Forms.dll
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.csproj.ResolveComReference.cache
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.exe
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.pdb
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.exe.manifest
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.application
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.exe
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.pdb
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.DA_Raw.dll
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.DA_stackRAW.dll
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.lookUp.dll
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.math.dll
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.statistics.dll
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\MathNet.Iridium.dll
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.statistics.pdb
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.DA_Raw.pdb
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\MathNet.Iridium.pdb
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\MathNet.Iridium.xml
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.math.pdb
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.lookUp.pdb
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.DA_stackRAW.pdb
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\de\MathNet.Iridium.resources.dll
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\es\MathNet.Iridium.resources.dll
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\fr\MathNet.Iridium.resources.dll
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\AxInterop.Microsoft.Vbe.Interop.Forms.dll
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\ResolveAssemblyReference.cache
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.AboutBox.resources
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\DataGridFilter.ColumnFilterForm.resources
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\DataGridFilter.DataFilterForm.resources
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.Form1.resources
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPcalcVarEnd.resources
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPcalcVarPreview.resources
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPchangeColV.resources
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPcolor.resources
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPgrapher.resources
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPgrapherPreview.resources
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPImage.resources
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPredPreference.resources
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPselectBoundsGraph.resources
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPselectMethod.resources
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPstatsPreview.resources
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPlic.resources
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPpeptCtChange.resources
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPquan.resources
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.Properties.Resources.resources
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPviewer.resources
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.sleeve.resources
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.csproj.GenerateResource.Cache
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.TrustInfo.xml
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.exe.manifest
+E:\wrk\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.application
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT\bin\Debug\QuiXoT.exe.config
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT\bin\Debug\QuiXoT.exe.manifest
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT\bin\Debug\QuiXoT.application
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT\bin\Debug\QuiXoT.exe
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT\bin\Debug\QuiXoT.pdb
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT\bin\Debug\QuiXoT.DA_Raw.dll
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT\bin\Debug\QuiXoT.DA_stackRAW.dll
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT\bin\Debug\QuiXoT.lookUp.dll
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT\bin\Debug\QuiXoT.math.dll
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT\bin\Debug\QuiXoT.statistics.dll
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT\bin\Debug\MathNet.Iridium.dll
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT\bin\Debug\QuiXoT.statistics.pdb
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT\bin\Debug\QuiXoT.DA_Raw.pdb
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT\bin\Debug\MathNet.Iridium.pdb
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT\bin\Debug\MathNet.Iridium.xml
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT\bin\Debug\QuiXoT.math.pdb
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT\bin\Debug\QuiXoT.lookUp.pdb
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT\bin\Debug\QuiXoT.DA_stackRAW.pdb
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT\bin\Debug\de\MathNet.Iridium.resources.dll
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT\bin\Debug\es\MathNet.Iridium.resources.dll
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT\bin\Debug\fr\MathNet.Iridium.resources.dll
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT\bin\Debug\AxInterop.Microsoft.Vbe.Interop.Forms.dll
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT\obj\Debug\ResolveAssemblyReference.cache
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT\obj\Debug\AxInterop.Microsoft.Vbe.Interop.Forms.dll
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT\obj\Debug\QuiXoT.csproj.ResolveComReference.cache
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT\obj\Debug\QuiXoT.AboutBox.resources
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT\obj\Debug\DataGridFilter.ColumnFilterForm.resources
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT\obj\Debug\DataGridFilter.DataFilterForm.resources
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT\obj\Debug\QuiXoT.Form1.resources
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT\obj\Debug\QuiXoT.OPcalcVarEnd.resources
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT\obj\Debug\QuiXoT.OPcalcVarPreview.resources
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT\obj\Debug\QuiXoT.OPchangeColV.resources
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT\obj\Debug\QuiXoT.OPcolor.resources
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT\obj\Debug\QuiXoT.OPgrapher.resources
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT\obj\Debug\QuiXoT.OPgrapherPreview.resources
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT\obj\Debug\QuiXoT.OPImage.resources
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT\obj\Debug\QuiXoT.OPredPreference.resources
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT\obj\Debug\QuiXoT.OPselectBoundsGraph.resources
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT\obj\Debug\QuiXoT.OPselectMethod.resources
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT\obj\Debug\QuiXoT.OPstatsPreview.resources
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT\obj\Debug\QuiXoT.OPlic.resources
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT\obj\Debug\QuiXoT.OPpeptCtChange.resources
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT\obj\Debug\QuiXoT.OPquan.resources
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT\obj\Debug\QuiXoT.Properties.Resources.resources
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT\obj\Debug\QuiXoT.OPviewer.resources
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT\obj\Debug\QuiXoT.sleeve.resources
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT\obj\Debug\QuiXoT.csproj.GenerateResource.Cache
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT\obj\Debug\QuiXoT.TrustInfo.xml
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT\obj\Debug\QuiXoT.exe.manifest
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT\obj\Debug\QuiXoT.application
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT\obj\Debug\QuiXoT.exe
+E:\wrk\soft_factory\QuiXoTtrunk_public\QuiXoT\obj\Debug\QuiXoT.pdb
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.exe.config
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\AxInterop.Microsoft.Vbe.Interop.Forms.dll
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.csproj.ResolveComReference.cache
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.exe
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.pdb
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.exe.manifest
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.application
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.exe
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.pdb
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.DA_Raw.dll
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.DA_stackRAW.dll
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.lookUp.dll
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.math.dll
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.statistics.dll
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.statistics.pdb
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.DA_Raw.pdb
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\MathNet.Iridium.pdb
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\MathNet.Iridium.xml
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.math.pdb
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.lookUp.pdb
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.DA_stackRAW.pdb
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\de\MathNet.Iridium.resources.dll
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\es\MathNet.Iridium.resources.dll
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\fr\MathNet.Iridium.resources.dll
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\AxInterop.Microsoft.Vbe.Interop.Forms.dll
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\ResolveAssemblyReference.cache
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.AboutBox.resources
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\DataGridFilter.ColumnFilterForm.resources
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\DataGridFilter.DataFilterForm.resources
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPcalcVarEnd.resources
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPcalcVarPreview.resources
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPchangeColV.resources
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPcolor.resources
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPgrapher.resources
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPgrapherPreview.resources
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPImage.resources
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPredPreference.resources
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPselectBoundsGraph.resources
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPselectMethod.resources
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPstatsPreview.resources
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPlic.resources
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPpeptCtChange.resources
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPquan.resources
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.Properties.Resources.resources
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPviewer.resources
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.sleeve.resources
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.csproj.GenerateResource.Cache
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.TrustInfo.xml
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.exe.manifest
+D:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.application
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.exe.config
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\AxInterop.Microsoft.Vbe.Interop.Forms.dll
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.csproj.ResolveComReference.cache
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.exe
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.pdb
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.exe.manifest
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.application
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.exe
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.pdb
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.DA_Raw.dll
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.DA_stackRAW.dll
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.lookUp.dll
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.math.dll
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.statistics.dll
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.statistics.pdb
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.DA_Raw.pdb
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.math.pdb
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.lookUp.pdb
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.DA_stackRAW.pdb
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\MathNet.Iridium.pdb
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\MathNet.Iridium.xml
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\de\MathNet.Iridium.resources.dll
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\es\MathNet.Iridium.resources.dll
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\fr\MathNet.Iridium.resources.dll
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\AxInterop.Microsoft.Vbe.Interop.Forms.dll
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\ResolveAssemblyReference.cache
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.AboutBox.resources
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\DataGridFilter.ColumnFilterForm.resources
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\DataGridFilter.DataFilterForm.resources
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPcalcVarEnd.resources
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPcalcVarPreview.resources
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPchangeColV.resources
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPcolor.resources
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPgrapher.resources
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPgrapherPreview.resources
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPImage.resources
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPredPreference.resources
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPselectBoundsGraph.resources
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPselectMethod.resources
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPstatsPreview.resources
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPlic.resources
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPpeptCtChange.resources
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPquan.resources
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.Properties.Resources.resources
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPviewer.resources
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.sleeve.resources
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.csproj.GenerateResource.Cache
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.TrustInfo.xml
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.exe.manifest
+K:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.application
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\ResolveAssemblyReference.cache
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\AxInterop.Microsoft.Vbe.Interop.Forms.dll
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.csproj.ResolveComReference.cache
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.AboutBox.resources
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\DataGridFilter.ColumnFilterForm.resources
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\DataGridFilter.DataFilterForm.resources
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPcalcVarEnd.resources
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPcalcVarPreview.resources
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPchangeColV.resources
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPcolor.resources
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPgrapher.resources
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPgrapherPreview.resources
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPImage.resources
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPredPreference.resources
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPselectBoundsGraph.resources
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPselectMethod.resources
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPstatsPreview.resources
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPlic.resources
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPpeptCtChange.resources
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPquan.resources
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.Properties.Resources.resources
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPviewer.resources
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.sleeve.resources
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.csproj.GenerateResource.Cache
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.exe
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.exe.config
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.exe.manifest
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.application
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.exe
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.pdb
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.DA_Raw.dll
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.DA_stackRAW.dll
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.lookUp.dll
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.math.dll
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.statistics.dll
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.statistics.pdb
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.DA_Raw.pdb
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.math.pdb
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.lookUp.pdb
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.DA_stackRAW.pdb
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\MathNet.Iridium.pdb
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\MathNet.Iridium.xml
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\de\MathNet.Iridium.resources.dll
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\es\MathNet.Iridium.resources.dll
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\fr\MathNet.Iridium.resources.dll
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\AxInterop.Microsoft.Vbe.Interop.Forms.dll
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.TrustInfo.xml
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.exe.manifest
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.application
+I:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.pdb
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.exe.config
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.exe.manifest
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.application
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.exe
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.pdb
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.DA_Raw.dll
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.DA_stackRAW.dll
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.lookUp.dll
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.math.dll
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.statistics.dll
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.statistics.pdb
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.DA_Raw.pdb
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.math.pdb
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.lookUp.pdb
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.DA_stackRAW.pdb
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\MathNet.Iridium.pdb
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\MathNet.Iridium.xml
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\de\MathNet.Iridium.resources.dll
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\es\MathNet.Iridium.resources.dll
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\fr\MathNet.Iridium.resources.dll
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\bin\Debug\AxInterop.Microsoft.Vbe.Interop.Forms.dll
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\ResolveAssemblyReference.cache
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\AxInterop.Microsoft.Vbe.Interop.Forms.dll
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.csproj.ResolveComReference.cache
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.AboutBox.resources
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\DataGridFilter.ColumnFilterForm.resources
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\DataGridFilter.DataFilterForm.resources
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPcalcVarEnd.resources
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPcalcVarPreview.resources
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPchangeColV.resources
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPcolor.resources
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPgrapher.resources
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPgrapherPreview.resources
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPImage.resources
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPredPreference.resources
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPselectBoundsGraph.resources
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPselectMethod.resources
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPstatsPreview.resources
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPlic.resources
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPpeptCtChange.resources
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPquan.resources
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.Properties.Resources.resources
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPviewer.resources
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.sleeve.resources
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.csproj.GenerateResource.Cache
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.TrustInfo.xml
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.exe.manifest
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.application
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.exe
+C:\Pedro\soft_factory\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.pdb
+D:\2010 Maia\programoj\labejo\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.exe.config
+D:\2010 Maia\programoj\labejo\QuiXoT\trunk\QuiXoT\obj\Debug\AxInterop.Microsoft.Vbe.Interop.Forms.dll
+D:\2010 Maia\programoj\labejo\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.csproj.ResolveComReference.cache
+D:\2010 Maia\programoj\labejo\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.exe
+D:\2010 Maia\programoj\labejo\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT\bin\Debug\QuiXoT.exe.config
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT\bin\Debug\QuiXoT.exe.manifest
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT\bin\Debug\QuiXoT.application
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT\bin\Debug\QuiXoT.exe
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT\bin\Debug\QuiXoT.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT\bin\Debug\QuiXoT.DA_Raw.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT\bin\Debug\QuiXoT.DA_stackRAW.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT\bin\Debug\QuiXoT.lookUp.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT\bin\Debug\QuiXoT.math.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT\bin\Debug\QuiXoT.statistics.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT\bin\Debug\QuiXoT.statistics.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT\bin\Debug\QuiXoT.DA_Raw.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT\bin\Debug\QuiXoT.math.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT\bin\Debug\QuiXoT.lookUp.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT\bin\Debug\QuiXoT.DA_stackRAW.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT\bin\Debug\MathNet.Iridium.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT\bin\Debug\MathNet.Iridium.xml
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT\bin\Debug\de\MathNet.Iridium.resources.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT\bin\Debug\es\MathNet.Iridium.resources.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT\bin\Debug\fr\MathNet.Iridium.resources.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT\bin\Debug\Interop.Microsoft.Vbe.Interop.Forms.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT\bin\Debug\AxInterop.Microsoft.Vbe.Interop.Forms.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT\obj\Debug\ResolveAssemblyReference.cache
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT\obj\Debug\Interop.Microsoft.Vbe.Interop.Forms.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT\obj\Debug\AxInterop.Microsoft.Vbe.Interop.Forms.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT\obj\Debug\QuiXoT.csproj.ResolveComReference.cache
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT\obj\Debug\QuiXoT.AboutBox.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT\obj\Debug\DataGridFilter.ColumnFilterForm.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT\obj\Debug\DataGridFilter.DataFilterForm.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT\obj\Debug\QuiXoT.OPcalcVarEnd.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT\obj\Debug\QuiXoT.OPcalcVarPreview.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT\obj\Debug\QuiXoT.OPchangeColV.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT\obj\Debug\QuiXoT.OPcolor.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT\obj\Debug\QuiXoT.OPgrapher.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT\obj\Debug\QuiXoT.OPgrapherPreview.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT\obj\Debug\QuiXoT.OPImage.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT\obj\Debug\QuiXoT.OPredPreference.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT\obj\Debug\QuiXoT.OPselectBoundsGraph.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT\obj\Debug\QuiXoT.OPselectMethod.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT\obj\Debug\QuiXoT.OPstatsPreview.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT\obj\Debug\QuiXoT.OPlic.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT\obj\Debug\QuiXoT.OPpeptCtChange.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT\obj\Debug\QuiXoT.OPquan.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT\obj\Debug\QuiXoT.Properties.Resources.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT\obj\Debug\QuiXoT.OPviewer.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT\obj\Debug\QuiXoT.sleeve.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT\obj\Debug\QuiXoT.csproj.GenerateResource.Cache
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT\obj\Debug\QuiXoT.TrustInfo.xml
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT\obj\Debug\QuiXoT.exe.manifest
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT\obj\Debug\QuiXoT.application
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT\obj\Debug\QuiXoT.exe
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prov\QuiXoT\obj\Debug\QuiXoT.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT\bin\Debug\QuiXoT.exe.config
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT\bin\Debug\QuiXoT.exe.manifest
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT\bin\Debug\QuiXoT.application
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT\bin\Debug\QuiXoT.exe
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT\bin\Debug\QuiXoT.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT\bin\Debug\QuiXoT.DA_Raw.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT\bin\Debug\QuiXoT.DA_stackRAW.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT\bin\Debug\QuiXoT.lookUp.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT\bin\Debug\QuiXoT.math.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT\bin\Debug\QuiXoT.statistics.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT\bin\Debug\QuiXoT.statistics.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT\bin\Debug\QuiXoT.DA_Raw.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT\bin\Debug\QuiXoT.math.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT\bin\Debug\QuiXoT.lookUp.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT\bin\Debug\QuiXoT.DA_stackRAW.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT\bin\Debug\MathNet.Iridium.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT\bin\Debug\MathNet.Iridium.xml
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT\bin\Debug\de\MathNet.Iridium.resources.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT\bin\Debug\es\MathNet.Iridium.resources.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT\bin\Debug\fr\MathNet.Iridium.resources.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT\bin\Debug\Interop.Microsoft.Vbe.Interop.Forms.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT\bin\Debug\AxInterop.Microsoft.Vbe.Interop.Forms.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT\obj\Debug\ResolveAssemblyReference.cache
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT\obj\Debug\Interop.Microsoft.Vbe.Interop.Forms.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT\obj\Debug\AxInterop.Microsoft.Vbe.Interop.Forms.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT\obj\Debug\QuiXoT.csproj.ResolveComReference.cache
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT\obj\Debug\QuiXoT.AboutBox.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT\obj\Debug\DataGridFilter.ColumnFilterForm.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT\obj\Debug\DataGridFilter.DataFilterForm.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT\obj\Debug\QuiXoT.OPcalcVarEnd.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT\obj\Debug\QuiXoT.OPcalcVarPreview.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT\obj\Debug\QuiXoT.OPchangeColV.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT\obj\Debug\QuiXoT.OPcolor.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT\obj\Debug\QuiXoT.OPgrapher.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT\obj\Debug\QuiXoT.OPgrapherPreview.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT\obj\Debug\QuiXoT.OPImage.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT\obj\Debug\QuiXoT.OPredPreference.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT\obj\Debug\QuiXoT.OPselectBoundsGraph.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT\obj\Debug\QuiXoT.OPselectMethod.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT\obj\Debug\QuiXoT.OPstatsPreview.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT\obj\Debug\QuiXoT.OPlic.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT\obj\Debug\QuiXoT.OPpeptCtChange.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT\obj\Debug\QuiXoT.OPquan.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT\obj\Debug\QuiXoT.Properties.Resources.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT\obj\Debug\QuiXoT.OPviewer.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT\obj\Debug\QuiXoT.sleeve.resources
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT\obj\Debug\QuiXoT.csproj.GenerateResource.Cache
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT\obj\Debug\QuiXoT.TrustInfo.xml
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT\obj\Debug\QuiXoT.exe.manifest
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT\obj\Debug\QuiXoT.application
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT\obj\Debug\QuiXoT.exe
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT_prog\trunk\QuiXoT\obj\Debug\QuiXoT.pdb
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\obj\Debug\Interop.Microsoft.Vbe.Interop.Forms.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\bin\Debug\Interop.Microsoft.Vbe.Interop.Forms.dll
+I:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPvarConf.resources
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.exe.config
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.exe.manifest
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.application
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.exe
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.pdb
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.DA_Raw.dll
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.DA_stackRAW.dll
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.lookUp.dll
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.math.dll
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.statistics.dll
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.statistics.pdb
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.DA_Raw.pdb
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.math.pdb
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.lookUp.pdb
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.DA_stackRAW.pdb
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\bin\Debug\MathNet.Iridium.pdb
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\bin\Debug\MathNet.Iridium.xml
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\bin\Debug\de\MathNet.Iridium.resources.dll
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\bin\Debug\es\MathNet.Iridium.resources.dll
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\bin\Debug\fr\MathNet.Iridium.resources.dll
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\obj\Debug\ResolveAssemblyReference.cache
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.csproj.ResolveComReference.cache
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.AboutBox.resources
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\obj\Debug\DataGridFilter.ColumnFilterForm.resources
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\obj\Debug\DataGridFilter.DataFilterForm.resources
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPcalcVarEnd.resources
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPcalcVarPreview.resources
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPchangeColV.resources
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPcolor.resources
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPgrapher.resources
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPgrapherPreview.resources
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPImage.resources
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPredPreference.resources
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPselectBoundsGraph.resources
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPselectMethod.resources
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPstatsPreview.resources
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPpeptCtChange.resources
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPquan.resources
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPvarConf.resources
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.Properties.Resources.resources
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPviewer.resources
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.sleeve.resources
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.csproj.GenerateResource.Cache
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.TrustInfo.xml
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.exe.manifest
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.application
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.exe
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.pdb
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.exe.config
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.csproj.ResolveComReference.cache
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.exe
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.pdb
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.exe.manifest
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.application
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.exe
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.pdb
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.DA_Raw.dll
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.DA_stackRAW.dll
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.lookUp.dll
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.math.dll
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.statistics.dll
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.statistics.pdb
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.DA_Raw.pdb
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.math.pdb
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.lookUp.pdb
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT\bin\Debug\QuiXoT.DA_stackRAW.pdb
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT\bin\Debug\MathNet.Iridium.pdb
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT\bin\Debug\MathNet.Iridium.xml
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT\bin\Debug\de\MathNet.Iridium.resources.dll
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT\bin\Debug\es\MathNet.Iridium.resources.dll
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT\bin\Debug\fr\MathNet.Iridium.resources.dll
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.AboutBox.resources
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT\obj\Debug\DataGridFilter.ColumnFilterForm.resources
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT\obj\Debug\DataGridFilter.DataFilterForm.resources
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPcalcVarEnd.resources
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPcalcVarPreview.resources
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPchangeColV.resources
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPcolor.resources
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPgrapher.resources
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPgrapherPreview.resources
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPImage.resources
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPredPreference.resources
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPselectBoundsGraph.resources
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPselectMethod.resources
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPstatsPreview.resources
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPlic.resources
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPpeptCtChange.resources
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPquan.resources
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPvarConf.resources
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.Properties.Resources.resources
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.OPviewer.resources
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.sleeve.resources
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.csproj.GenerateResource.Cache
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.TrustInfo.xml
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.exe.manifest
+C:\Users\jvazquez\Desktop\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.application
+D:\DATUMARO\trabajo\programas_repositorio\QuiXoT\trunk\QuiXoT\obj\Debug\QuiXoT.images.icons.Resource1.resources
+D:\DATUMARO\trabajo\tareas realizadas\2017\2017-05-22 código fuente de los programas\QuiXoT\QuiXoT\bin\Debug\QuiXoT.exe.config
+D:\DATUMARO\trabajo\tareas realizadas\2017\2017-05-22 código fuente de los programas\QuiXoT\QuiXoT\obj\Debug\QuiXoT.csproj.ResolveComReference.cache
+D:\DATUMARO\trabajo\tareas realizadas\2017\2017-05-22 código fuente de los programas\QuiXoT\QuiXoT\obj\Debug\QuiXoT.exe
+D:\DATUMARO\trabajo\tareas realizadas\2017\2017-05-22 código fuente de los programas\QuiXoT\QuiXoT\obj\Debug\QuiXoT.pdb
+D:\DATUMARO\trabajo\github\QuiXoT\QuiXoT\bin\Debug\QuiXoT.exe.config
+D:\DATUMARO\trabajo\github\QuiXoT\QuiXoT\obj\Debug\QuiXoT.csproj.ResolveComReference.cache
+D:\DATUMARO\trabajo\github\QuiXoT\QuiXoT\obj\Debug\QuiXoT.exe
+D:\DATUMARO\trabajo\github\QuiXoT\QuiXoT\obj\Debug\QuiXoT.pdb

@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+<xsd:element name="Quanmethods">
+<xsd:complexType>
+<xsd:sequence maxOccurs="unbounded" minOccurs="1">
+    <xsd:element name="method" type="methodType"/> 
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+     
+
+<xsd:complexType name="methodType">
+        <xsd:sequence>		   
+			<xsd:element name="method_id_key" type="xsd:string"/>
+			<xsd:element name="method_id_name" type="xsd:string"/>
+            <xsd:element name="associated_schema" type="xsd:string">
+
+                <xsd:annotation>
+				
+				    <xsd:documentation>
+					XML schema related with this quantitation method
+					</xsd:documentation>
+				
+				</xsd:annotation>
+
+            </xsd:element>
+			<xsd:element name="aminoacids_file" type="xsd:string">
+				<xsd:annotation>
+					<xsd:documentation>
+					XML file containing the aminoacids list to be used by this quantitation method
+					</xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+            <xsd:element name="expected_results" type="xsd:integer">
+
+                <xsd:annotation>
+
+                    <xsd:documentation>
+					indicates the maximum number of results expected
+					</xsd:documentation>
+
+                </xsd:annotation>
+
+            </xsd:element>
+            <xsd:element name="q_spectrum" type="spectrumType">
+                <xsd:annotation>
+                    <xsd:documentation>
+					indicates which spectrum is taken to estimate the quantitation
+					</xsd:documentation>
+                </xsd:annotation>
+            </xsd:element>
+            <xsd:element name="q_spectrum_position" type="spectrumPosType">
+                <xsd:annotation>
+                    <xsd:documentation>Indicates if the program must search the quantitation spectrum before, in the same position, or after the ID spectrum
+					</xsd:documentation>
+                </xsd:annotation>
+            </xsd:element>
+			<xsd:element name="q_spectrum_type" type="spectrumAdqType" minOccurs="0">
+				<xsd:annotation>
+					<xsd:documentation></xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+					<xsd:element name="MassTags" minOccurs="0">
+			<xsd:complexType>
+			<xsd:sequence id="MassTags" minOccurs="0" maxOccurs="unbounded">
+			    <xsd:element name="MassTag" minOccurs="1" maxOccurs="unbounded" type="MassTagType"/>
+			</xsd:sequence>
+			</xsd:complexType>
+   		</xsd:element>
+
+			<xsd:element name="instrument" type="instrumentType">
+                <xsd:annotation>
+                    <xsd:documentation>
+					parameters depending on the mass spectrometer used in the analysis
+					</xsd:documentation>
+                </xsd:annotation>
+            </xsd:element>
+		
+			<xsd:element name="scans_button" type="action" minOccurs="0">
+				<xsd:annotation>
+					<xsd:documentation>
+					configuration for the action of the scans button.
+					</xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+
+			<xsd:element name="peptides_button" type="action" minOccurs="0">
+				<xsd:annotation>
+					<xsd:documentation>
+					configuration for the action of the peptides button.
+					</xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+
+			<xsd:element name="proteins_button" type="action" minOccurs="0">
+				<xsd:annotation>
+					<xsd:documentation>
+					configuration for the action of the proteins button.
+					</xsd:documentation>
+				</xsd:annotation>
+			</xsd:element>
+
+
+        </xsd:sequence>
+
+</xsd:complexType>
+
+
+
+<xsd:simpleType name="spectrumType">
+  <xsd:restriction base="xsd:string">
+    <xsd:enumeration value="ZoomScan"/>
+    <xsd:enumeration value="MSMS"/>
+    <xsd:enumeration value="Full"/>
+  </xsd:restriction>
+</xsd:simpleType>
+
+<xsd:simpleType name="spectrumPosType">
+	<xsd:restriction base="xsd:string">
+		<xsd:enumeration value="previous"/>
+		<xsd:enumeration value="same"/>
+		<xsd:enumeration value="next"/>
+	</xsd:restriction>
+</xsd:simpleType>
+
+<xsd:simpleType name="spectrumAdqType">
+	<xsd:restriction base="xsd:string">
+		<xsd:enumeration value="centroid"/>
+		<xsd:enumeration value="profile"/>
+	</xsd:restriction>
+</xsd:simpleType>
+
+<xsd:complexType name="instrumentType">
+    <xsd:sequence maxOccurs="1" minOccurs="1">
+   
+   			<xsd:element name="instrument_id_key" type="xsd:string"/>
+			<xsd:element name="instrument_id_name" type="xsd:string"/>
+   
+        <xsd:element name="resolution" type="resolutionType"/>
+   
+        <xsd:element name="kmax" type="xsd:integer" minOccurs="0">
+   
+            <xsd:annotation>
+   
+                <xsd:documentation>
+				maximum number of peaks obtained for the isotopic envelope
+				</xsd:documentation>
+   
+            </xsd:annotation>   
+        </xsd:element>
+
+		<xsd:element name="maxIterations" type="xsd:integer" minOccurs="0">
+			<xsd:annotation>
+				<xsd:documentation>maximum number of iterations for each Newton-Gauss fitting</xsd:documentation>
+			</xsd:annotation>
+		</xsd:element>
+
+		<xsd:element name="initialFitParams" minOccurs="0">
+			<xsd:complexType>
+			<xsd:sequence id="initialFitParams" minOccurs="1" maxOccurs="unbounded">
+			    <xsd:element name="if_parameter" maxOccurs="unbounded" type="parametersType"/>
+				
+			</xsd:sequence>
+			</xsd:complexType>
+   		</xsd:element>
+		<xsd:element name="deltaFitParams" minOccurs="0">
+			<xsd:complexType>
+			<xsd:sequence id="deltaFitParams" minOccurs="1" maxOccurs="unbounded">
+			    <xsd:element name="df_parameter" maxOccurs="unbounded" type="parametersType"/>
+			</xsd:sequence>
+			</xsd:complexType>
+   		</xsd:element>
+
+
+
+    </xsd:sequence>
+   
+</xsd:complexType>
+<xsd:simpleType name="resolutionType">
+        <xsd:restriction base="xsd:string">
+			<xsd:enumeration value="LOW"/>
+			<xsd:enumeration value="MEDIUM"/>
+			<xsd:enumeration value="HIGH"/>
+		</xsd:restriction>
+</xsd:simpleType>
+<xsd:complexType name="parametersType">
+   <xsd:attribute name="id"/>
+   <xsd:attribute name="value" type="xsd:double"/> 
+   <xsd:attribute name="string" type="xsd:string"/>     
+</xsd:complexType>
+
+<xsd:complexType name="MassTagType">
+	<xsd:attribute name="id" use="required"/>
+	<xsd:attribute name="reference" type="xsd:boolean" default="false"/>
+	<xsd:attribute name="Mass" type="xsd:double" use="required"/>
+	<xsd:attribute name="Corr-2" type="xsd:float"/>
+	<xsd:attribute name="Corr-1" type="xsd:float"/>
+	<xsd:attribute name="Corr1" type="xsd:float"/>
+	<xsd:attribute name="Corr2" type="xsd:float"/>
+</xsd:complexType>  
+ 
+<xsd:complexType name="action">
+	<xsd:attribute name="id" use="required" type="xsd:string"/>
+	<xsd:attribute name="rowFilter" use="optional" type="xsd:string"/>
+	<xsd:attribute name="sort" use="optional" type="xsd:string"/>
+	<xsd:attribute name="hide_columns" use="optional" type="xsd:string"/>
+</xsd:complexType>
+
+</xsd:schema>
+

@@ -1,0 +1,307 @@
+<?xml version="1.0"?>
+<Quanmethods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///i:/wrk/soft_factory/QuiXoT/trunk/QuiXoT/bin/Debug/conf/quantitationMethods_schema.xsd">
+
+<method>
+<method_id_key>O18_ZS</method_id_key>
+<method_id_name>18O, LR, SEQUEST</method_id_name>
+<associated_schema>conf\identifications_schema_18O_LR.xsd</associated_schema> 
+<aminoacids_file>conf\aminoacids_18O.xml</aminoacids_file>
+<expected_results>1</expected_results>
+<q_spectrum>ZoomScan</q_spectrum>
+<q_spectrum_position>previous</q_spectrum_position>
+<instrument>
+<instrument_id_key>LTQ</instrument_id_key>
+<instrument_id_name>LTQ</instrument_id_name>
+<resolution>LOW</resolution>
+<kmax>4</kmax>
+<maxIterations>100</maxIterations>
+<initialFitParams>
+	<if_parameter id="alpha" value="0.3"/>
+	<if_parameter id="sigma" value="0.05"/>
+	<if_parameter id="deltaR" value="2.004245778"/>
+	<if_parameter id="efficiency" value="0.95"/>
+	<if_parameter id="deltaMZ" value="0"/>
+	<if_parameter id="SN_f" value="0.01"/>
+</initialFitParams>
+<deltaFitParams>
+	<df_parameter id="A" value="10"/>
+	<df_parameter id="B" value="10"/>
+	<df_parameter id="efficiency" value="0.01"/>
+	<df_parameter id="sigma" value="10"/>
+	<df_parameter id="alpha" value="10"/>
+	<df_parameter id="SN" value="10"/>
+	<df_parameter id="rsh" value="1e-2"/>	
+</deltaFitParams>
+
+</instrument>
+
+<scans_button id="scans_button" rowFilter="" sort="FDRq,Wq,Wp,Ws" hide_columns=""/>
+<peptides_button id="peptides_button" rowFilter="s_index = 1" sort="FDRq,Wq,Wp" hide_columns="FDR,FirstScan,LastScan,Charge,FDRs,Xs,Ws"/>
+<proteins_button id="proteins_button" rowFilter="s_index = 1 and p_index = 1" sort="FDRq,Wq" hide_columns="FDR,FirstScan,LastScan,Charge,FDRs,Xs,Vs,Ws,FDRp,Wp"/>
+
+</method>
+
+<method>
+<method_id_key>O18_HR</method_id_key>
+<method_id_name>18O, HR, SEQUEST</method_id_name>
+<associated_schema>conf\identifications_schema_18O_HR.xsd</associated_schema> 
+<aminoacids_file>conf\aminoacids_18O.xml</aminoacids_file>
+<expected_results>1</expected_results>
+<q_spectrum>Full</q_spectrum>
+<q_spectrum_position>previous</q_spectrum_position>
+<instrument>
+<instrument_id_key>orbitrap</instrument_id_key>
+<instrument_id_name>orbitrap</instrument_id_name>
+<resolution>HIGH</resolution>
+<kmax>8</kmax>
+<maxIterations>1000</maxIterations>
+<initialFitParams>
+	<if_parameter id="width" value="0.02"/>
+	<if_parameter id="deltaR" value="2.004245778"/>
+	<if_parameter id="efficiency" value="0.95"/>
+	<if_parameter id="deltaMZ" value="0"/>
+</initialFitParams>
+<deltaFitParams>
+	<df_parameter id="A" value="10"/>
+	<df_parameter id="B" value="10"/>
+	<df_parameter id="efficiency" value="0.01"/>
+	<df_parameter id="rsh" value="1e-3"/>
+	<df_parameter id="alpha_NG" value="0.1"/>
+	<df_parameter id="sumSQtolerance_NG" value="1e-4"/>
+	<df_parameter id="PRS_NG" value="1e-8"/>
+</deltaFitParams>
+
+</instrument>
+
+<scans_button id="scans_button" rowFilter="" sort="FDRq,Wq,Wp,Ws" hide_columns=""/>
+<peptides_button id="peptides_button" rowFilter="s_index = 1" sort="FDRq,Wq,Wp" hide_columns="FDR,FirstScan,LastScan,Charge,FDRs,Xs,Ws"/>
+<proteins_button id="proteins_button" rowFilter="s_index = 1 and p_index = 1" sort="FDRq,Wq" hide_columns="FDR,FirstScan,LastScan,Charge,FDRs,Xs,Vs,Ws,FDRp,Wp"/>
+
+</method>
+
+<method>
+<method_id_key>SILAC</method_id_key>
+<method_id_name>SILAC, LR, Mascot</method_id_name>
+<associated_schema>conf\identifications_schema_SILAC_LR_Mascot.xsd</associated_schema> 
+<aminoacids_file>conf\aminoacids_SILAC_K6R6.xml</aminoacids_file>
+<expected_results>1</expected_results>
+<q_spectrum>ZoomScan</q_spectrum>
+<q_spectrum_position>previous</q_spectrum_position>
+<instrument>
+<instrument_id_key>LTQ</instrument_id_key>
+<instrument_id_name>LTQ</instrument_id_name>
+<resolution>LOW</resolution>
+<kmax>8</kmax>
+<initialFitParams>
+	<if_parameter id="alpha" value="0.1"/>
+	<if_parameter id="sigma" value="0.05"/>
+	<if_parameter id="deltaMZ" value="0"/>
+	<if_parameter id="SN_f" value="0.01"/>
+    <if_parameter id="specific_for_ZS_initialFit" value="0.78"/>		
+	<if_parameter id="labeled amino acids" string="R,K" value="6.02012904"/>
+</initialFitParams>
+<deltaFitParams>
+	<df_parameter id="A" value="10"/>
+	<df_parameter id="B" value="10"/>
+	<df_parameter id="sigma" value="10"/>
+	<df_parameter id="alpha" value="10"/>
+	<df_parameter id="SN" value="10"/>
+	<df_parameter id="rsh" value="1e-1"/>
+	<df_parameter id="specific_for_ZS_deltaFit" value="0.78"/>
+</deltaFitParams>
+
+</instrument>
+
+<scans_button id="scans_button" rowFilter="" sort="FDRq,Wq,Wp,Ws" hide_columns=""/>
+<peptides_button id="peptides_button" rowFilter="s_index = 1" sort="FDRq,Wq,Wp" hide_columns="FDR,FirstScan,LastScan,Charge,FDRs,Xs,Ws"/>
+<proteins_button id="proteins_button" rowFilter="s_index = 1 and p_index = 1" sort="FDRq,Wq" hide_columns="FDR,FirstScan,LastScan,Charge,FDRs,Xs,Vs,Ws,FDRp,Wp"/>
+
+</method>
+
+<method>
+<method_id_key>SILAC</method_id_key>
+<method_id_name>SILAC, LR, SEQUEST</method_id_name>
+<associated_schema>conf\identifications_schema_SILAC_LR.xsd</associated_schema> 
+<aminoacids_file>conf\aminoacids_SILAC_K6R6.xml</aminoacids_file>
+<expected_results>1</expected_results>
+<q_spectrum>ZoomScan</q_spectrum>
+<q_spectrum_position>previous</q_spectrum_position>
+<instrument>
+<instrument_id_key>LTQ</instrument_id_key>
+<instrument_id_name>LTQ</instrument_id_name>
+<resolution>LOW</resolution>
+<kmax>5</kmax>
+<maxIterations>1000</maxIterations>
+<initialFitParams>
+	<if_parameter id="alpha" value="0.1"/>
+	<if_parameter id="sigma" value="0.05"/>
+	<if_parameter id="deltaMZ" value="0"/>
+	<if_parameter id="SN_f" value="0.01"/>
+    <if_parameter id="specific_for_ZS_initialFit" value="0.78"/>		
+	<if_parameter id="labeled amino acids" string="R,K" value="6.02012904"/>
+</initialFitParams>
+<deltaFitParams>
+	<df_parameter id="A" value="10"/>
+	<df_parameter id="B" value="10"/>
+	<df_parameter id="sigma" value="10"/>
+	<df_parameter id="alpha" value="10"/>
+	<df_parameter id="SN" value="10"/>
+	<df_parameter id="rsh" value="1e-1"/>
+	<df_parameter id="specific_for_ZS_deltaFit" value="0.78"/>
+	<df_parameter id="alpha_NG" value="0.1"/>
+	<df_parameter id="sumSQtolerance_NG" value="1e-4"/>
+	<df_parameter id="PRS_NG" value="1e-2"/>
+</deltaFitParams>
+
+</instrument>
+
+<scans_button id="scans_button" rowFilter="" sort="FDRq,Wq,Wp,Ws" hide_columns=""/>
+<peptides_button id="peptides_button" rowFilter="s_index = 1" sort="FDRq,Wq,Wp" hide_columns="FDR,FirstScan,LastScan,Charge,FDRs,Xs,Ws"/>
+<proteins_button id="proteins_button" rowFilter="s_index = 1 and p_index = 1" sort="FDRq,Wq" hide_columns="FDR,FirstScan,LastScan,Charge,FDRs,Xs,Vs,Ws,FDRp,Wp"/>
+
+
+</method>
+
+<method>
+<method_id_key>SILAC_HR</method_id_key>
+<method_id_name>SILAC, HR, SEQUEST</method_id_name>
+<associated_schema>conf\identifications_schema_SILAC_HR.xsd</associated_schema> 
+<aminoacids_file>conf\aminoacids_SILAC_K6R6.xml</aminoacids_file>
+<expected_results>1</expected_results>
+<q_spectrum>Full</q_spectrum>
+<q_spectrum_position>previous</q_spectrum_position>
+<instrument>
+<instrument_id_key>orbitrap</instrument_id_key>
+<instrument_id_name>orbitrap</instrument_id_name>
+<resolution>HIGH</resolution>
+<kmax>8</kmax>
+<maxIterations>1000</maxIterations>
+<initialFitParams>
+	<if_parameter id="width" value="0.02"/>
+	<if_parameter id="deltaR" value="2.004245778"/>
+	<if_parameter id="efficiency" value="1"/>
+	<if_parameter id="deltaMZ" value="0"/>
+	<if_parameter id="labeled amino acids" string="R,K" value="6.02012904"/>
+</initialFitParams>
+<deltaFitParams>
+	<df_parameter id="A" value="1"/>
+	<df_parameter id="B" value="1"/>
+	<df_parameter id="rsh" value="1e-2"/>
+	<df_parameter id="alpha_NG" value="0.1"/>
+	<df_parameter id="sumSQtolerance_NG" value="1e-4"/>
+	<df_parameter id="PRS_NG" value="1e-10"/>
+</deltaFitParams>
+
+</instrument>
+
+<scans_button id="scans_button" rowFilter="" sort="FDRq,Wq,Wp,Ws" hide_columns=""/>
+<peptides_button id="peptides_button" rowFilter="s_index = 1" sort="FDRq,Wq,Wp" hide_columns="FDR,FirstScan,LastScan,Charge,FDRs,Xs,Ws"/>
+<proteins_button id="proteins_button" rowFilter="s_index = 1 and p_index = 1" sort="FDRq,Wq" hide_columns="FDR,FirstScan,LastScan,Charge,FDRs,Xs,Vs,Ws,FDRp,Wp"/>
+
+</method>
+
+<method>
+<method_id_key>iTRAQ</method_id_key>
+<method_id_name>iTRAQ, 4plex, SEQUEST</method_id_name>
+<associated_schema>conf\identifications_schema_iTRAQ_4plex.xsd</associated_schema> 
+<aminoacids_file>conf\aminoacids_iTRAQ4_Kstatic.xml</aminoacids_file>
+<expected_results>1</expected_results>
+<q_spectrum>MSMS</q_spectrum>
+<q_spectrum_position>same</q_spectrum_position>
+<q_spectrum_type>centroid</q_spectrum_type>
+<MassTags>
+	<MassTag id="114" Mass="114.1" Corr-2="0.0" Corr-1="1.0" Corr1="5.9" Corr2="0.2"/>
+	<MassTag reference="true" id="115" Mass="115.1" Corr-2="0.0" Corr-1="2.0" Corr1="5.6" Corr2="0.1"/>
+	<MassTag reference="true" id="116" Mass="116.1" Corr-2="0.0" Corr-1="3.0" Corr1="4.5" Corr2="0.1"/>
+	<MassTag reference="true" id="117" Mass="117.1" Corr-2="0.1" Corr-1="4.0" Corr1="3.5" Corr2="0.1"/>	 
+</MassTags>
+<instrument>
+	<instrument_id_key>LTQ</instrument_id_key>
+	<instrument_id_name>LTQ</instrument_id_name>
+	<resolution>LOW</resolution>
+	<initialFitParams>
+		<if_parameter id="deltaMZ" value="0.8"/>
+		<if_parameter id="reporterMethod" string="mostIntense"/>
+		<if_parameter id="intensityThreshold" value="0"/> 
+	</initialFitParams>
+</instrument>
+
+<scans_button id="scans_button" rowFilter="" sort="FDRq,Wq,Wp,Ws" hide_columns=""/>
+<peptides_button id="peptides_button" rowFilter="s_index = 1" sort="FDRq,Wq,Wp" hide_columns="FDR,FirstScan,LastScan,Charge,FDRs,Xs,Ws"/>
+<proteins_button id="proteins_button" rowFilter="s_index = 1 and p_index = 1" sort="FDRq,Wq" hide_columns="FDR,FirstScan,LastScan,Charge,FDRs,Xs,Vs,Ws,FDRp,Wp"/>
+
+</method>
+
+<method>
+<method_id_key>iTRAQ</method_id_key>
+<method_id_name>iTRAQ, 4plex, Mascot</method_id_name>
+<associated_schema>conf\identifications_schema_iTRAQ_4plex_Mascot.xsd</associated_schema> 
+<aminoacids_file>conf\aminoacids_iTRAQ4_Kstatic.xml</aminoacids_file>
+<expected_results>1</expected_results>
+<q_spectrum>MSMS</q_spectrum>
+<q_spectrum_position>same</q_spectrum_position>
+<q_spectrum_type>centroid</q_spectrum_type>
+<MassTags>
+	<MassTag id="114" Mass="114.1" Corr-2="0.0" Corr-1="1.0" Corr1="5.9" Corr2="0.2"/>
+	<MassTag reference="true" id="115" Mass="115.1" Corr-2="0.0" Corr-1="2.0" Corr1="5.6" Corr2="0.1"/>
+	<MassTag reference="true" id="116" Mass="116.1" Corr-2="0.0" Corr-1="3.0" Corr1="4.5" Corr2="0.1"/>
+	<MassTag reference="true" id="117" Mass="117.1" Corr-2="0.1" Corr-1="4.0" Corr1="3.5" Corr2="0.1"/>	 
+</MassTags>
+<instrument>
+	<instrument_id_key>LTQ</instrument_id_key>
+	<instrument_id_name>LTQ</instrument_id_name>
+	<resolution>LOW</resolution>
+	<initialFitParams>
+		<if_parameter id="deltaMZ" value="0.8"/>
+		<if_parameter id="reporterMethod" string="mostIntense"/>
+		<if_parameter id="intensityThreshold" value="3"/> 
+	</initialFitParams>
+</instrument>
+
+<scans_button id="scans_button" rowFilter="" sort="FDRq,Wq,Wp,Ws" hide_columns=""/>
+<peptides_button id="peptides_button" rowFilter="s_index = 1" sort="FDRq,Wq,Wp" hide_columns="FDR,FirstScan,LastScan,Charge,FDRs,Xs,Ws"/>
+<proteins_button id="proteins_button" rowFilter="s_index = 1 and p_index = 1" sort="FDRq,Wq" hide_columns="FDR,FirstScan,LastScan,Charge,FDRs,Xs,Vs,Ws,FDRp,Wp"/>
+
+</method>
+
+<method>
+<method_id_key>iTRAQ</method_id_key>
+<method_id_name>iTRAQ, 8plex, SEQUEST</method_id_name>
+<associated_schema>conf\identifications_schema_iTRAQ_8plex.xsd</associated_schema> 
+<aminoacids_file>conf\aminoacids_iTRAQ8_Kstatic.xml</aminoacids_file>
+<expected_results>1</expected_results>
+<q_spectrum>MSMS</q_spectrum>
+<q_spectrum_position>same</q_spectrum_position>
+<q_spectrum_type>centroid</q_spectrum_type>
+<MassTags>
+	<MassTag id="113" Mass="113.1" Corr-2="0.0" Corr-1="0.0" Corr1="1.8" Corr2="0.0"/>
+	<MassTag reference="true" id="114" Mass="114.1" Corr-2="0.0" Corr-1="0.7" Corr1="0.7" Corr2="0.2"/>
+	<MassTag reference="true" id="115" Mass="115.1" Corr-2="0.0" Corr-1="0.8" Corr1="1.2" Corr2="0.0"/>
+	<MassTag reference="true" id="116" Mass="116.1" Corr-2="0.0" Corr-1="1.2" Corr1="0.9" Corr2="0.0"/>
+	<MassTag reference="true" id="117" Mass="117.1" Corr-2="0.0" Corr-1="1.9" Corr1="0.7" Corr2="0.2"/>
+	<MassTag reference="true" id="118" Mass="118.1" Corr-2="0.0" Corr-1="2.1" Corr1="0.4" Corr2="0.0"/>
+	<MassTag reference="true" id="119" Mass="119.1" Corr-2="0.0" Corr-1="2.6" Corr1="0.0" Corr2="0.0"/>
+	<MassTag reference="true" id="121" Mass="121.1" Corr-2="0.0" Corr-1="3.6" Corr1="0.0" Corr2="0.0"/>	 
+	
+</MassTags>
+<instrument>
+	<instrument_id_key>LTQ</instrument_id_key>
+	<instrument_id_name>LTQ</instrument_id_name>
+	<resolution>LOW</resolution>
+	<initialFitParams>
+		<if_parameter id="deltaMZ" value="0.8"/>
+		<if_parameter id="reporterMethod" string="mostIntense"/>
+		<if_parameter id="intensityThreshold" value="0"/> 
+	</initialFitParams>
+</instrument>
+
+<scans_button id="scans_button" rowFilter="" sort="FDRq,Wq,Wp,Ws" hide_columns=""/>
+<peptides_button id="peptides_button" rowFilter="s_index = 1" sort="FDRq,Wq,Wp" hide_columns="FDR,FirstScan,LastScan,Charge,FDRs,Xs,Ws"/>
+<proteins_button id="proteins_button" rowFilter="s_index = 1 and p_index = 1" sort="FDRq,Wq" hide_columns="FDR,FirstScan,LastScan,Charge,FDRs,Xs,Vs,Ws,FDRp,Wp"/>
+
+</method>
+
+
+</Quanmethods>
+
+
